@@ -1,0 +1,45 @@
+name: Ingest route submission
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  ingest:
+    if: github.event.label.name == 'route-submission'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Process submission
+        id: process
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: node scripts/ingest-issue.js
+
+      - name: Create Pull Request
+        if: steps.process.outputs.created == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: submission/issue-${{ github.event.issue.number }}
+          title: 'Route submission from issue #${{ github.event.issue.number }}'
+          body: |
+            Automated ingestion of route submitted in #${{ github.event.issue.number }}.
+
+            Please review the generated tiles before merging.
+          commit-message: 'chore: ingest route from issue #${{ github.event.issue.number }}'

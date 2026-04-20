@@ -1,0 +1,37 @@
+name: Submit a route
+description: Share a GPX route with the HighKeer community.
+title: "[Submission] "
+labels: ["route-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing a route! Attach your `.gpx` file below and fill in the details.
+        An automated workflow will validate the file and open a pull request.
+  - type: input
+    id: route_name
+    attributes:
+      label: Route name
+      placeholder: e.g. Passadiços do Côa
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      placeholder: Tell others what makes this route special.
+  - type: input
+    id: location
+    attributes:
+      label: General location
+      placeholder: e.g. Guarda, Portugal
+  - type: markdown
+    attributes:
+      value: |
+        ### Attach your GPX file
+        Drag and drop a `.gpx` file into the comment box below.
+  - type: markdown
+    id: attachment_hint
+    attributes:
+      value: |
+        > After creating this issue, a bot will process your upload and open a PR. You'll get a link to review it.
