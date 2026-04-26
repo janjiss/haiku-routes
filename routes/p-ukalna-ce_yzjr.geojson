@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "id": "p-ukalna-ce_yzjr",
+    "name": "Āpšukalna ceļš",
+    "distanceMeters": 2096.3790167378465,
+    "elevationGainM": null
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        24.8529681,
+        56.746487
+      ],
+      [
+        24.8664276,
+        56.7522173
+      ],
+      [
+        24.8799828,
+        56.7581514
+      ]
+    ]
+  }
+}
