@@ -41,7 +41,7 @@ function githubApi(path) {
         path,
         headers: {
           'Authorization': `Bearer ${TOKEN}`,
-          'User-Agent': 'highkeer-ingest',
+          'User-Agent': 'haiku-routes-ingest',
           'Accept': 'application/vnd.github+json',
           'X-GitHub-Api-Version': '2022-11-28',
         },
@@ -67,7 +67,7 @@ function download(url, dest) {
   return new Promise((resolve, reject) => {
     const file = fs.createWriteStream(dest);
     https
-      .get(url, { headers: { 'User-Agent': 'highkeer-ingest' } }, (res) => {
+      .get(url, { headers: { 'User-Agent': 'haiku-routes-ingest' } }, (res) => {
         if (res.statusCode === 302 || res.statusCode === 301) {
           // follow redirect
           download(res.headers.location, dest).then(resolve).catch(reject);
@@ -184,7 +184,7 @@ async function postComment(issue, text) {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${TOKEN}`,
-          'User-Agent': 'highkeer-ingest',
+          'User-Agent': 'haiku-routes-ingest',
           'Accept': 'application/vnd.github+json',
           'Content-Type': 'application/json',
           'Content-Length': Buffer.byteLength(data),

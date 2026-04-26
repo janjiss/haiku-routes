@@ -11,7 +11,7 @@
  * Env vars:
  *   UPLOAD_SECRET   – shared secret the app sends in Authorization header
  *   GITHUB_TOKEN    – classic PAT with `repo` scope
- *   GITHUB_REPO     – e.g. "janjiss/highkeer-routes"
+ *   GITHUB_REPO     – e.g. "janjiss/haiku-routes"
  *   GITHUB_BRANCH   – target branch, usually "main"
  */
 
@@ -140,7 +140,7 @@ async function ghApi(env, path, init = {}) {
     headers: {
       Accept: 'application/vnd.github+json',
       Authorization: `Bearer ${env.GITHUB_TOKEN}`,
-      'User-Agent': 'highkeer-worker',
+      'User-Agent': 'haiku-routes-worker',
       'X-GitHub-Api-Version': '2022-11-28',
       ...(init.headers || {}),
     },

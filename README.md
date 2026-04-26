@@ -1,4 +1,4 @@
-# HighKeer Routes Data
+# Haiku Routes Data
 
 Static route tileset designed for GitHub Pages (or any static CDN).
 
@@ -38,12 +38,12 @@ SRC_DIR=./source OUT_DIR=./out npm run build
 
 ## Host on GitHub Pages
 
-1. Create a repo (e.g. `your-org/highkeer-routes`).
+1. Create a repo (e.g. `your-org/haiku-routes`).
 2. Push the `out/` folder to the `gh-pages` branch (or enable Pages on `main`).
 3. Tiles are then available at:
    ```
-   https://janjiss.github.io/highkeer-routes/routes/{id}.geojson
-   https://janjiss.github.io/highkeer-routes/idx/z10/004213.json
+   https://janjiss.github.io/haiku-routes/routes/{id}.geojson
+   https://janjiss.github.io/haiku-routes/idx/z10/004213.json
    ```
 
 ## Client fetching strategy
@@ -74,7 +74,7 @@ Drop `.gpx` files into `source/` and re-run `npm run build`. The script is deter
    - Opens a pull request automatically
    - Comments on the issue with the PR link
 
-### Via the HighKeer app
+### Via the Haiku Routes app
 
 The app can open a pre-filled issue form:
 
