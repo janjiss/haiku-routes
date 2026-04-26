@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="56.344435" lon="21.24884">
+  <name>Atpūtas Bāze Ods</name>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="56.350741" lon="21.2409057">
+  <name>Vīles tilts</name>
+  <sym>icon-2.png</sym>
+</wpt>
+<wpt lat="56.3570009" lon="21.234249">
+  <name>Atputas bāze Neptūns (Nestrādā) </name>
+  <sym>icon-3.png</sym>
+</wpt>
+<wpt lat="56.3614122" lon="21.226714">
+  <name>Dūkupju ūdenskritums</name>
+  <sym>icon-4.png</sym>
+</wpt>
+<wpt lat="56.3612539" lon="21.2270743">
+  <name>Atputas vieta pie Dūkupju ūdenskrituma </name>
+  <sym>icon-5.png</sym>
+</wpt>
+<wpt lat="56.3649308" lon="21.2250807">
+  <name>Jāšķērso grāvis </name>
+  <sym>icon-6.png</sym>
+</wpt>
+<wpt lat="56.3647582" lon="21.2142999">
+  <name>Tilts pāri Ķiburu strautam </name>
+  <sym>icon-7.png</sym>
+</wpt>
+<wpt lat="56.3941008" lon="21.2443253">
+  <name>Ķīburi</name>
+  <sym>icon-8.png</sym>
+</wpt>
+<wpt lat="56.3944641" lon="21.2442697">
+  <name>Ķīburi</name>
+  <sym>icon-8.png</sym>
+</wpt>
+<wpt lat="56.3446256" lon="21.249121">
+  <name>Auto stāvvietā </name>
+  <sym>icon-9.png</sym>
+</wpt>
+<trk>
+  <name>Pārgājiens Atpūtas bāze "Ods" - Ķīburi</name>
+  <trkseg>
+    <trkpt lat="56.3949416" lon="21.2435128" />
+    <trkpt lat="56.3914676" lon="21.2473967" />
+    <trkpt lat="56.3914142" lon="21.2457444" />
+    <trkpt lat="56.3897989" lon="21.2457873" />
+    <trkpt lat="56.3877084" lon="21.2466027" />
+    <trkpt lat="56.3868056" lon="21.2456157" />
+    <trkpt lat="56.3806045" lon="21.2466456" />
+    <trkpt lat="56.3751153" lon="21.2465169" />
+    <trkpt lat="56.3736894" lon="21.2460448" />
+    <trkpt lat="56.3727625" lon="21.2472035" />
+    <trkpt lat="56.3707423" lon="21.248491" />
+    <trkpt lat="56.3692687" lon="21.2486197" />
+    <trkpt lat="56.3653468" lon="21.2490489" />
+    <trkpt lat="56.3616146" lon="21.2498643" />
+    <trkpt lat="56.3592373" lon="21.2494351" />
+    <trkpt lat="56.3581436" lon="21.249993" />
+    <trkpt lat="56.3566695" lon="21.2499501" />
+    <trkpt lat="56.3538876" lon="21.2511088" />
+    <trkpt lat="56.3489772" lon="21.2538125" />
+    <trkpt lat="56.3474195" lon="21.2535336" />
+    <trkpt lat="56.3461829" lon="21.2525465" />
+    <trkpt lat="56.3454813" lon="21.2526109" />
+    <trkpt lat="56.3455407" lon="21.2503793" />
+    <trkpt lat="56.3453624" lon="21.249521" />
+    <trkpt lat="56.3448986" lon="21.2495853" />
+    <trkpt lat="56.3447321" lon="21.2477185" />
+    <trkpt lat="56.3445775" lon="21.2465598" />
+    <trkpt lat="56.3447083" lon="21.244929" />
+    <trkpt lat="56.347482" lon="21.24352" />
+    <trkpt lat="56.349947" lon="21.242572" />
+    <trkpt lat="56.351537" lon="21.23944" />
+    <trkpt lat="56.354061" lon="21.237097" />
+    <trkpt lat="56.356093" lon="21.236313" />
+    <trkpt lat="56.3564674" lon="21.2362387" />
+    <trkpt lat="56.356943" lon="21.2345221" />
+    <trkpt lat="56.35694" lon="21.232784" />
+    <trkpt lat="56.357573" lon="21.2317111" />
+    <trkpt lat="56.3580485" lon="21.2311532" />
+    <trkpt lat="56.360658" lon="21.226297" />
+    <trkpt lat="56.361324" lon="21.227989" />
+    <trkpt lat="56.3654656" lon="21.2290503" />
+    <trkpt lat="56.3649308" lon="21.2250807" />
+    <trkpt lat="56.365667" lon="21.224639" />
+    <trkpt lat="56.3655726" lon="21.2236645" />
+    <trkpt lat="56.3653349" lon="21.2223985" />
+    <trkpt lat="56.364655" lon="21.2129" />
+    <trkpt lat="56.367043" lon="21.214571" />
+    <trkpt lat="56.368184" lon="21.219071" />
+    <trkpt lat="56.369704" lon="21.218795" />
+    <trkpt lat="56.370477" lon="21.219896" />
+    <trkpt lat="56.37301" lon="21.219129" />
+    <trkpt lat="56.373102" lon="21.22094" />
+    <trkpt lat="56.373938" lon="21.220905" />
+    <trkpt lat="56.37438" lon="21.219701" />
+    <trkpt lat="56.375957" lon="21.219602" />
+    <trkpt lat="56.376389" lon="21.221092" />
+    <trkpt lat="56.376881" lon="21.220679" />
+    <trkpt lat="56.377909" lon="21.221855" />
+    <trkpt lat="56.377935" lon="21.220876" />
+    <trkpt lat="56.3789" lon="21.221055" />
+    <trkpt lat="56.379274" lon="21.222113" />
+    <trkpt lat="56.379538" lon="21.220717" />
+    <trkpt lat="56.381312" lon="21.221214" />
+    <trkpt lat="56.381802" lon="21.220523" />
+    <trkpt lat="56.382242" lon="21.221545" />
+    <trkpt lat="56.383061" lon="21.22046" />
+    <trkpt lat="56.384508" lon="21.220113" />
+    <trkpt lat="56.386034" lon="21.222044" />
+    <trkpt lat="56.38677" lon="21.2217547" />
+    <trkpt lat="56.3871738" lon="21.224673" />
+    <trkpt lat="56.3904047" lon="21.2317969" />
+    <trkpt lat="56.3925425" lon="21.2384917" />
+    <trkpt lat="56.3949416" lon="21.2435128" />
+  </trkseg>
+</trk>
+<trk>
+  <name>Taka gar Bārtas upi (~3,5km)</name>
+  <desc>Daļēji marķētā meža taka</desc>
+  <trkseg>
+    <trkpt lat="56.365667" lon="21.224639" />
+    <trkpt lat="56.364931" lon="21.225081" />
+    <trkpt lat="56.365466" lon="21.22905" />
+    <trkpt lat="56.361404" lon="21.227324" />
+    <trkpt lat="56.360658" lon="21.226297" />
+    <trkpt lat="56.358048" lon="21.231153" />
+    <trkpt lat="56.357573" lon="21.231711" />
+    <trkpt lat="56.35694" lon="21.232784" />
+    <trkpt lat="56.356968" lon="21.234387" />
+    <trkpt lat="56.356467" lon="21.236239" />
+    <trkpt lat="56.355898" lon="21.236404" />
+    <trkpt lat="56.354061" lon="21.237097" />
+    <trkpt lat="56.351537" lon="21.23944" />
+    <trkpt lat="56.349947" lon="21.242572" />
+    <trkpt lat="56.344708" lon="21.244929" />
+  </trkseg>
+</trk>
+<trk>
+  <name>Ķiburu strauts (~3,5km)</name>
+  <desc>Nemarķēts posms, bezceļš.</desc>
+  <trkseg>
+    <trkpt lat="56.386249" lon="21.221976" />
+    <trkpt lat="56.386034" lon="21.222044" />
+    <trkpt lat="56.384508" lon="21.220113" />
+    <trkpt lat="56.383061" lon="21.22046" />
+    <trkpt lat="56.382242" lon="21.221545" />
+    <trkpt lat="56.381802" lon="21.220523" />
+    <trkpt lat="56.381312" lon="21.221214" />
+    <trkpt lat="56.379538" lon="21.220717" />
+    <trkpt lat="56.379274" lon="21.222113" />
+    <trkpt lat="56.3789" lon="21.221055" />
+    <trkpt lat="56.377935" lon="21.220876" />
+    <trkpt lat="56.377909" lon="21.221855" />
+    <trkpt lat="56.376881" lon="21.220679" />
+    <trkpt lat="56.376389" lon="21.221092" />
+    <trkpt lat="56.375957" lon="21.219602" />
+    <trkpt lat="56.37438" lon="21.219701" />
+    <trkpt lat="56.373938" lon="21.220905" />
+    <trkpt lat="56.373102" lon="21.22094" />
+    <trkpt lat="56.37301" lon="21.219129" />
+    <trkpt lat="56.370477" lon="21.219896" />
+    <trkpt lat="56.369704" lon="21.218795" />
+    <trkpt lat="56.368184" lon="21.219071" />
+    <trkpt lat="56.367043" lon="21.214571" />
+    <trkpt lat="56.364655" lon="21.2129" />
+  </trkseg>
+</trk>
+</gpx>
