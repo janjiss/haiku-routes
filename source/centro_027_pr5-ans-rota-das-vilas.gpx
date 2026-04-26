@@ -1,0 +1,2172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:ns2="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="outdooractive - http://www.outdooractive.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>PR5 ANS - Rota das Vilas</name>
+    <link href="https://www.outdooractive.com/r/805614810" />
+    <time>2026-03-24T08:47:00.786Z</time>
+    <extensions>
+      <ns2:oaCategory>hikingTourTrail</ns2:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>PR5 ANS - Rota das Vilas</name>
+    <desc>A Rota das Vilas parte da praça Costa Rego, no coração da vila de Avelar, mesmo ao lado da belíssima igreja de Nossa Senhora da Guia e junto também ao hospital de Avelar. Avelar e Chão de Couce integraram em tempos o conjunto das Cinco Vilas, em conjunto com Pousaflores, Aguda e Maçãs de D. Maria.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="39.923415" lon="-8.357232">
+        <ele>266.4</ele>
+        <name>Praça Costa Rego, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.923401" lon="-8.35724">
+        <ele>266.3</ele>
+      </trkpt>
+      <trkpt lat="39.92342" lon="-8.357272">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.923412" lon="-8.357314">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.923415" lon="-8.357345">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.923432" lon="-8.357355">
+        <ele>266.5</ele>
+      </trkpt>
+      <trkpt lat="39.923497" lon="-8.357283">
+        <ele>267.0</ele>
+      </trkpt>
+      <trkpt lat="39.923634" lon="-8.357133">
+        <ele>268.5</ele>
+        <name>Praça Costa Rego, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.923384" lon="-8.356951">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.923134" lon="-8.356768">
+        <ele>266.5</ele>
+      </trkpt>
+      <trkpt lat="39.923139" lon="-8.356751">
+        <ele>266.5</ele>
+      </trkpt>
+      <trkpt lat="39.923148" lon="-8.356723">
+        <ele>266.7</ele>
+      </trkpt>
+      <trkpt lat="39.92317" lon="-8.356654">
+        <ele>266.9</ele>
+      </trkpt>
+      <trkpt lat="39.923129" lon="-8.356623">
+        <ele>267.1</ele>
+      </trkpt>
+      <trkpt lat="39.923084" lon="-8.356587">
+        <ele>267.3</ele>
+      </trkpt>
+      <trkpt lat="39.922883" lon="-8.356439">
+        <ele>267.4</ele>
+      </trkpt>
+      <trkpt lat="39.922681" lon="-8.356292">
+        <ele>266.6</ele>
+      </trkpt>
+      <trkpt lat="39.922629" lon="-8.356259">
+        <ele>266.5</ele>
+      </trkpt>
+      <trkpt lat="39.922572" lon="-8.356217">
+        <ele>266.3</ele>
+      </trkpt>
+      <trkpt lat="39.922517" lon="-8.35617">
+        <ele>266.1</ele>
+      </trkpt>
+      <trkpt lat="39.922482" lon="-8.35614">
+        <ele>266.0</ele>
+      </trkpt>
+      <trkpt lat="39.922453" lon="-8.356148">
+        <ele>265.9</ele>
+      </trkpt>
+      <trkpt lat="39.922424" lon="-8.356145">
+        <ele>265.8</ele>
+      </trkpt>
+      <trkpt lat="39.922405" lon="-8.356136">
+        <ele>265.7</ele>
+      </trkpt>
+      <trkpt lat="39.922387" lon="-8.356121">
+        <ele>265.7</ele>
+      </trkpt>
+      <trkpt lat="39.922373" lon="-8.356102">
+        <ele>265.6</ele>
+      </trkpt>
+      <trkpt lat="39.922362" lon="-8.35608">
+        <ele>265.5</ele>
+      </trkpt>
+      <trkpt lat="39.922356" lon="-8.356055">
+        <ele>265.4</ele>
+      </trkpt>
+      <trkpt lat="39.92227" lon="-8.355963">
+        <ele>264.7</ele>
+      </trkpt>
+      <trkpt lat="39.922233" lon="-8.355938">
+        <ele>264.4</ele>
+      </trkpt>
+      <trkpt lat="39.922165" lon="-8.355895">
+        <ele>263.8</ele>
+      </trkpt>
+      <trkpt lat="39.922084" lon="-8.355844">
+        <ele>263.1</ele>
+      </trkpt>
+      <trkpt lat="39.921995" lon="-8.355776">
+        <ele>262.4</ele>
+        <name>Avenida Doutor José Augusto Medeiros, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.921808" lon="-8.355633">
+        <ele>260.8</ele>
+      </trkpt>
+      <trkpt lat="39.921729" lon="-8.355578">
+        <ele>260.3</ele>
+      </trkpt>
+      <trkpt lat="39.921655" lon="-8.35553">
+        <ele>260.1</ele>
+      </trkpt>
+      <trkpt lat="39.921583" lon="-8.355493">
+        <ele>260.1</ele>
+      </trkpt>
+      <trkpt lat="39.921578" lon="-8.35549">
+        <ele>260.1</ele>
+      </trkpt>
+      <trkpt lat="39.921501" lon="-8.355457">
+        <ele>260.2</ele>
+      </trkpt>
+      <trkpt lat="39.921516" lon="-8.355216">
+        <ele>261.8</ele>
+      </trkpt>
+      <trkpt lat="39.921535" lon="-8.355065">
+        <ele>263.4</ele>
+      </trkpt>
+      <trkpt lat="39.921536" lon="-8.354985">
+        <ele>264.1</ele>
+      </trkpt>
+      <trkpt lat="39.921533" lon="-8.354874">
+        <ele>265.0</ele>
+      </trkpt>
+      <trkpt lat="39.921518" lon="-8.354781">
+        <ele>265.7</ele>
+      </trkpt>
+      <trkpt lat="39.921497" lon="-8.354698">
+        <ele>266.5</ele>
+      </trkpt>
+      <trkpt lat="39.921477" lon="-8.354635">
+        <ele>267.2</ele>
+      </trkpt>
+      <trkpt lat="39.921429" lon="-8.354527">
+        <ele>268.2</ele>
+      </trkpt>
+      <trkpt lat="39.921364" lon="-8.354367">
+        <ele>269.9</ele>
+      </trkpt>
+      <trkpt lat="39.921336" lon="-8.354276">
+        <ele>271.0</ele>
+      </trkpt>
+      <trkpt lat="39.921309" lon="-8.354161">
+        <ele>272.3</ele>
+      </trkpt>
+      <trkpt lat="39.921285" lon="-8.354021">
+        <ele>273.4</ele>
+      </trkpt>
+      <trkpt lat="39.921271" lon="-8.353928">
+        <ele>274.0</ele>
+      </trkpt>
+      <trkpt lat="39.921269" lon="-8.353813">
+        <ele>274.5</ele>
+      </trkpt>
+      <trkpt lat="39.921282" lon="-8.353692">
+        <ele>274.8</ele>
+      </trkpt>
+      <trkpt lat="39.921277" lon="-8.353638">
+        <ele>274.9</ele>
+      </trkpt>
+      <trkpt lat="39.921266" lon="-8.353573">
+        <ele>275.1</ele>
+      </trkpt>
+      <trkpt lat="39.921235" lon="-8.353463">
+        <ele>275.5</ele>
+      </trkpt>
+      <trkpt lat="39.921064" lon="-8.353029">
+        <ele>280.0</ele>
+      </trkpt>
+      <trkpt lat="39.921014" lon="-8.352843">
+        <ele>283.5</ele>
+      </trkpt>
+      <trkpt lat="39.920996" lon="-8.352657">
+        <ele>286.2</ele>
+      </trkpt>
+      <trkpt lat="39.920971" lon="-8.352462">
+        <ele>289.2</ele>
+      </trkpt>
+      <trkpt lat="39.920926" lon="-8.352344">
+        <ele>291.3</ele>
+      </trkpt>
+      <trkpt lat="39.920777" lon="-8.352247">
+        <ele>292.7</ele>
+      </trkpt>
+      <trkpt lat="39.920458" lon="-8.352057">
+        <ele>294.0</ele>
+      </trkpt>
+      <trkpt lat="39.920139" lon="-8.351866">
+        <ele>292.7</ele>
+      </trkpt>
+      <trkpt lat="39.91982" lon="-8.351676">
+        <ele>292.2</ele>
+      </trkpt>
+      <trkpt lat="39.919502" lon="-8.351485">
+        <ele>291.5</ele>
+      </trkpt>
+      <trkpt lat="39.919267" lon="-8.351367">
+        <ele>293.4</ele>
+      </trkpt>
+      <trkpt lat="39.919198" lon="-8.35135">
+        <ele>293.6</ele>
+      </trkpt>
+      <trkpt lat="39.919069" lon="-8.351293">
+        <ele>293.6</ele>
+      </trkpt>
+      <trkpt lat="39.918988" lon="-8.351259">
+        <ele>293.4</ele>
+      </trkpt>
+      <trkpt lat="39.918931" lon="-8.351244">
+        <ele>293.0</ele>
+      </trkpt>
+      <trkpt lat="39.918885" lon="-8.35122">
+        <ele>292.9</ele>
+      </trkpt>
+      <trkpt lat="39.918721" lon="-8.351116">
+        <ele>292.6</ele>
+      </trkpt>
+      <trkpt lat="39.918471" lon="-8.35098">
+        <ele>293.6</ele>
+      </trkpt>
+      <trkpt lat="39.918221" lon="-8.350844">
+        <ele>296.8</ele>
+      </trkpt>
+      <trkpt lat="39.91789" lon="-8.350662">
+        <ele>298.1</ele>
+      </trkpt>
+      <trkpt lat="39.91756" lon="-8.35048">
+        <ele>297.5</ele>
+      </trkpt>
+      <trkpt lat="39.917259" lon="-8.350343">
+        <ele>295.4</ele>
+      </trkpt>
+      <trkpt lat="39.916958" lon="-8.350206">
+        <ele>294.1</ele>
+      </trkpt>
+      <trkpt lat="39.916658" lon="-8.35007">
+        <ele>295.2</ele>
+      </trkpt>
+      <trkpt lat="39.916576" lon="-8.350402">
+        <ele>291.5</ele>
+      </trkpt>
+      <trkpt lat="39.916478" lon="-8.350888">
+        <ele>287.1</ele>
+      </trkpt>
+      <trkpt lat="39.916379" lon="-8.351374">
+        <ele>282.2</ele>
+      </trkpt>
+      <trkpt lat="39.91628" lon="-8.351861">
+        <ele>275.2</ele>
+      </trkpt>
+      <trkpt lat="39.916167" lon="-8.352416">
+        <ele>269.9</ele>
+      </trkpt>
+      <trkpt lat="39.916054" lon="-8.352971">
+        <ele>268.7</ele>
+      </trkpt>
+      <trkpt lat="39.915941" lon="-8.353526">
+        <ele>268.5</ele>
+      </trkpt>
+      <trkpt lat="39.91591" lon="-8.35349">
+        <ele>268.9</ele>
+      </trkpt>
+      <trkpt lat="39.91586" lon="-8.353455">
+        <ele>269.4</ele>
+      </trkpt>
+      <trkpt lat="39.915723" lon="-8.353387">
+        <ele>270.5</ele>
+      </trkpt>
+      <trkpt lat="39.915619" lon="-8.353344">
+        <ele>271.4</ele>
+      </trkpt>
+      <trkpt lat="39.915215" lon="-8.353155">
+        <ele>276.7</ele>
+      </trkpt>
+      <trkpt lat="39.915103" lon="-8.353093">
+        <ele>278.0</ele>
+      </trkpt>
+      <trkpt lat="39.915008" lon="-8.353028">
+        <ele>278.9</ele>
+      </trkpt>
+      <trkpt lat="39.914931" lon="-8.353364">
+        <ele>279.4</ele>
+      </trkpt>
+      <trkpt lat="39.914855" lon="-8.3537">
+        <ele>279.6</ele>
+      </trkpt>
+      <trkpt lat="39.914678" lon="-8.354137">
+        <ele>278.2</ele>
+      </trkpt>
+      <trkpt lat="39.914565" lon="-8.354471">
+        <ele>276.1</ele>
+      </trkpt>
+      <trkpt lat="39.914425" lon="-8.354691">
+        <ele>274.2</ele>
+      </trkpt>
+      <trkpt lat="39.91424" lon="-8.355048">
+        <ele>272.7</ele>
+      </trkpt>
+      <trkpt lat="39.91411" lon="-8.355306">
+        <ele>272.2</ele>
+      </trkpt>
+      <trkpt lat="39.914017" lon="-8.355234">
+        <ele>272.7</ele>
+      </trkpt>
+      <trkpt lat="39.913885" lon="-8.355226">
+        <ele>272.8</ele>
+      </trkpt>
+      <trkpt lat="39.913497" lon="-8.355344">
+        <ele>271.3</ele>
+      </trkpt>
+      <trkpt lat="39.91311" lon="-8.355462">
+        <ele>267.6</ele>
+      </trkpt>
+      <trkpt lat="39.91281" lon="-8.355585">
+        <ele>265.3</ele>
+      </trkpt>
+      <trkpt lat="39.912442" lon="-8.355909">
+        <ele>261.7</ele>
+      </trkpt>
+      <trkpt lat="39.912105" lon="-8.356263">
+        <ele>259.2</ele>
+      </trkpt>
+      <trkpt lat="39.911784" lon="-8.356588">
+        <ele>257.2</ele>
+      </trkpt>
+      <trkpt lat="39.911463" lon="-8.356912">
+        <ele>257.2</ele>
+      </trkpt>
+      <trkpt lat="39.911162" lon="-8.357261">
+        <ele>255.7</ele>
+      </trkpt>
+      <trkpt lat="39.911049" lon="-8.357297">
+        <ele>253.8</ele>
+      </trkpt>
+      <trkpt lat="39.910817" lon="-8.357261">
+        <ele>249.6</ele>
+      </trkpt>
+      <trkpt lat="39.910627" lon="-8.357277">
+        <ele>247.3</ele>
+      </trkpt>
+      <trkpt lat="39.910471" lon="-8.357416">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.910349" lon="-8.357747">
+        <ele>243.5</ele>
+      </trkpt>
+      <trkpt lat="39.910255" lon="-8.358198">
+        <ele>243.3</ele>
+      </trkpt>
+      <trkpt lat="39.910189" lon="-8.358708">
+        <ele>244.5</ele>
+      </trkpt>
+      <trkpt lat="39.91015" lon="-8.359032">
+        <ele>244.0</ele>
+      </trkpt>
+      <trkpt lat="39.91011" lon="-8.359357">
+        <ele>244.6</ele>
+      </trkpt>
+      <trkpt lat="39.910032" lon="-8.35977">
+        <ele>244.2</ele>
+      </trkpt>
+      <trkpt lat="39.909983" lon="-8.359931">
+        <ele>243.9</ele>
+      </trkpt>
+      <trkpt lat="39.909876" lon="-8.360097">
+        <ele>243.9</ele>
+      </trkpt>
+      <trkpt lat="39.909654" lon="-8.360295">
+        <ele>243.8</ele>
+      </trkpt>
+      <trkpt lat="39.909456" lon="-8.360585">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.909386" lon="-8.360762">
+        <ele>241.8</ele>
+      </trkpt>
+      <trkpt lat="39.909327" lon="-8.360838">
+        <ele>241.0</ele>
+      </trkpt>
+      <trkpt lat="39.909462" lon="-8.361069">
+        <ele>241.3</ele>
+      </trkpt>
+      <trkpt lat="39.909597" lon="-8.361269">
+        <ele>241.8</ele>
+        <name>Rua da Lomba, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.909603" lon="-8.361277">
+        <ele>241.8</ele>
+      </trkpt>
+      <trkpt lat="39.909721" lon="-8.361438">
+        <ele>241.8</ele>
+      </trkpt>
+      <trkpt lat="39.909866" lon="-8.361607">
+        <ele>241.9</ele>
+      </trkpt>
+      <trkpt lat="39.91004" lon="-8.361765">
+        <ele>241.7</ele>
+      </trkpt>
+      <trkpt lat="39.9102" lon="-8.361897">
+        <ele>240.5</ele>
+      </trkpt>
+      <trkpt lat="39.910373" lon="-8.362014">
+        <ele>239.4</ele>
+      </trkpt>
+      <trkpt lat="39.910535" lon="-8.362119">
+        <ele>238.9</ele>
+      </trkpt>
+      <trkpt lat="39.910707" lon="-8.362204">
+        <ele>239.5</ele>
+      </trkpt>
+      <trkpt lat="39.910897" lon="-8.362282">
+        <ele>240.2</ele>
+      </trkpt>
+      <trkpt lat="39.911098" lon="-8.362344">
+        <ele>241.1</ele>
+      </trkpt>
+      <trkpt lat="39.911335" lon="-8.362401">
+        <ele>240.8</ele>
+      </trkpt>
+      <trkpt lat="39.911337" lon="-8.362469">
+        <ele>240.4</ele>
+      </trkpt>
+      <trkpt lat="39.911347" lon="-8.362531">
+        <ele>240.0</ele>
+      </trkpt>
+      <trkpt lat="39.91137" lon="-8.362614">
+        <ele>239.5</ele>
+      </trkpt>
+      <trkpt lat="39.911405" lon="-8.362713">
+        <ele>239.1</ele>
+      </trkpt>
+      <trkpt lat="39.911549" lon="-8.363261">
+        <ele>238.1</ele>
+      </trkpt>
+      <trkpt lat="39.911693" lon="-8.363809">
+        <ele>237.9</ele>
+      </trkpt>
+      <trkpt lat="39.91172" lon="-8.364053">
+        <ele>238.0</ele>
+      </trkpt>
+      <trkpt lat="39.911726" lon="-8.364435">
+        <ele>238.1</ele>
+      </trkpt>
+      <trkpt lat="39.911732" lon="-8.364817">
+        <ele>237.5</ele>
+      </trkpt>
+      <trkpt lat="39.911732" lon="-8.365046">
+        <ele>238.1</ele>
+      </trkpt>
+      <trkpt lat="39.911744" lon="-8.365474">
+        <ele>237.7</ele>
+      </trkpt>
+      <trkpt lat="39.911755" lon="-8.365902">
+        <ele>239.1</ele>
+      </trkpt>
+      <trkpt lat="39.911767" lon="-8.36633">
+        <ele>241.6</ele>
+      </trkpt>
+      <trkpt lat="39.91177" lon="-8.366593">
+        <ele>241.9</ele>
+      </trkpt>
+      <trkpt lat="39.911772" lon="-8.366723">
+        <ele>242.2</ele>
+      </trkpt>
+      <trkpt lat="39.911499" lon="-8.366624">
+        <ele>242.0</ele>
+      </trkpt>
+      <trkpt lat="39.911204" lon="-8.366517">
+        <ele>240.5</ele>
+      </trkpt>
+      <trkpt lat="39.910908" lon="-8.36641">
+        <ele>241.2</ele>
+      </trkpt>
+      <trkpt lat="39.91067" lon="-8.366331">
+        <ele>244.6</ele>
+      </trkpt>
+      <trkpt lat="39.910609" lon="-8.366313">
+        <ele>245.6</ele>
+      </trkpt>
+      <trkpt lat="39.910645" lon="-8.366252">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.910696" lon="-8.366195">
+        <ele>246.1</ele>
+      </trkpt>
+      <trkpt lat="39.910965" lon="-8.365945">
+        <ele>243.9</ele>
+      </trkpt>
+      <trkpt lat="39.911017" lon="-8.365864">
+        <ele>243.4</ele>
+      </trkpt>
+      <trkpt lat="39.911051" lon="-8.365756">
+        <ele>242.9</ele>
+      </trkpt>
+      <trkpt lat="39.91104" lon="-8.365642">
+        <ele>242.8</ele>
+      </trkpt>
+      <trkpt lat="39.911009" lon="-8.365527">
+        <ele>243.2</ele>
+      </trkpt>
+      <trkpt lat="39.910955" lon="-8.365399">
+        <ele>243.8</ele>
+      </trkpt>
+      <trkpt lat="39.910673" lon="-8.365062">
+        <ele>244.8</ele>
+      </trkpt>
+      <trkpt lat="39.910407" lon="-8.364809">
+        <ele>244.6</ele>
+      </trkpt>
+      <trkpt lat="39.910081" lon="-8.364583">
+        <ele>244.5</ele>
+      </trkpt>
+      <trkpt lat="39.909853" lon="-8.364431">
+        <ele>244.4</ele>
+      </trkpt>
+      <trkpt lat="39.909605" lon="-8.36434">
+        <ele>245.2</ele>
+      </trkpt>
+      <trkpt lat="39.909429" lon="-8.364306">
+        <ele>245.3</ele>
+      </trkpt>
+      <trkpt lat="39.909224" lon="-8.364282">
+        <ele>244.3</ele>
+      </trkpt>
+      <trkpt lat="39.90909" lon="-8.364239">
+        <ele>242.3</ele>
+      </trkpt>
+      <trkpt lat="39.908866" lon="-8.364156">
+        <ele>239.8</ele>
+      </trkpt>
+      <trkpt lat="39.908642" lon="-8.364073">
+        <ele>239.8</ele>
+      </trkpt>
+      <trkpt lat="39.908399" lon="-8.364006">
+        <ele>239.1</ele>
+      </trkpt>
+      <trkpt lat="39.908156" lon="-8.363938">
+        <ele>239.9</ele>
+      </trkpt>
+      <trkpt lat="39.907872" lon="-8.363891">
+        <ele>240.1</ele>
+      </trkpt>
+      <trkpt lat="39.907589" lon="-8.363844">
+        <ele>238.6</ele>
+      </trkpt>
+      <trkpt lat="39.907229" lon="-8.363749">
+        <ele>238.7</ele>
+      </trkpt>
+      <trkpt lat="39.906896" lon="-8.363601">
+        <ele>240.1</ele>
+      </trkpt>
+      <trkpt lat="39.906717" lon="-8.363476">
+        <ele>239.7</ele>
+      </trkpt>
+      <trkpt lat="39.906611" lon="-8.363369">
+        <ele>239.4</ele>
+        <name>Rua da Serrada da Mata, Ansião</name>
+        <extensions>
+          <ns2:locType>routingNode</ns2:locType>
+          <ns2:Extension>
+            <ns2:mapZoom>18</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.906557" lon="-8.363314">
+        <ele>239.2</ele>
+      </trkpt>
+      <trkpt lat="39.906458" lon="-8.36324">
+        <ele>239.3</ele>
+      </trkpt>
+      <trkpt lat="39.906108" lon="-8.363078">
+        <ele>239.3</ele>
+      </trkpt>
+      <trkpt lat="39.905757" lon="-8.362916">
+        <ele>239.6</ele>
+      </trkpt>
+      <trkpt lat="39.905536" lon="-8.362834">
+        <ele>238.8</ele>
+      </trkpt>
+      <trkpt lat="39.905315" lon="-8.362751">
+        <ele>238.6</ele>
+      </trkpt>
+      <trkpt lat="39.9051" lon="-8.36268">
+        <ele>237.4</ele>
+      </trkpt>
+      <trkpt lat="39.90504" lon="-8.362687">
+        <ele>237.3</ele>
+      </trkpt>
+      <trkpt lat="39.904983" lon="-8.362727">
+        <ele>237.4</ele>
+      </trkpt>
+      <trkpt lat="39.904911" lon="-8.36286">
+        <ele>238.5</ele>
+      </trkpt>
+      <trkpt lat="39.904946" lon="-8.363037">
+        <ele>241.4</ele>
+      </trkpt>
+      <trkpt lat="39.904918" lon="-8.363341">
+        <ele>245.4</ele>
+      </trkpt>
+      <trkpt lat="39.904821" lon="-8.363765">
+        <ele>248.2</ele>
+      </trkpt>
+      <trkpt lat="39.904782" lon="-8.364244">
+        <ele>249.4</ele>
+      </trkpt>
+      <trkpt lat="39.904741" lon="-8.364547">
+        <ele>251.5</ele>
+      </trkpt>
+      <trkpt lat="39.904691" lon="-8.364836">
+        <ele>252.2</ele>
+      </trkpt>
+      <trkpt lat="39.904617" lon="-8.365327">
+        <ele>254.0</ele>
+      </trkpt>
+      <trkpt lat="39.904572" lon="-8.365478">
+        <ele>253.8</ele>
+      </trkpt>
+      <trkpt lat="39.904471" lon="-8.365594">
+        <ele>253.7</ele>
+      </trkpt>
+      <trkpt lat="39.90443" lon="-8.365697">
+        <ele>253.1</ele>
+      </trkpt>
+      <trkpt lat="39.90442" lon="-8.365798">
+        <ele>252.3</ele>
+      </trkpt>
+      <trkpt lat="39.904093" lon="-8.365708">
+        <ele>253.5</ele>
+      </trkpt>
+      <trkpt lat="39.904073" lon="-8.365883">
+        <ele>252.5</ele>
+      </trkpt>
+      <trkpt lat="39.904064" lon="-8.365943">
+        <ele>252.0</ele>
+      </trkpt>
+      <trkpt lat="39.904052" lon="-8.366003">
+        <ele>251.6</ele>
+      </trkpt>
+      <trkpt lat="39.904032" lon="-8.366086">
+        <ele>251.1</ele>
+      </trkpt>
+      <trkpt lat="39.904005" lon="-8.366182">
+        <ele>250.7</ele>
+      </trkpt>
+      <trkpt lat="39.903955" lon="-8.366335">
+        <ele>250.1</ele>
+      </trkpt>
+      <trkpt lat="39.903916" lon="-8.366456">
+        <ele>249.9</ele>
+      </trkpt>
+      <trkpt lat="39.903874" lon="-8.366571">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.903854" lon="-8.366616">
+        <ele>250.1</ele>
+      </trkpt>
+      <trkpt lat="39.903827" lon="-8.366662">
+        <ele>250.3</ele>
+      </trkpt>
+      <trkpt lat="39.903797" lon="-8.366701">
+        <ele>250.5</ele>
+      </trkpt>
+      <trkpt lat="39.903751" lon="-8.366751">
+        <ele>250.9</ele>
+      </trkpt>
+      <trkpt lat="39.903586" lon="-8.366929">
+        <ele>252.2</ele>
+      </trkpt>
+      <trkpt lat="39.903536" lon="-8.366984">
+        <ele>252.7</ele>
+      </trkpt>
+      <trkpt lat="39.9035" lon="-8.367039">
+        <ele>253.1</ele>
+        <name>Rua do Lameirão, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>19</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.903197" lon="-8.366904">
+        <ele>256.48418</ele>
+      </trkpt>
+      <trkpt lat="39.90293" lon="-8.366877">
+        <ele>258.85552</ele>
+      </trkpt>
+      <trkpt lat="39.902562" lon="-8.367112">
+        <ele>260.7</ele>
+      </trkpt>
+      <trkpt lat="39.902424" lon="-8.36728">
+        <ele>261.4</ele>
+      </trkpt>
+      <trkpt lat="39.902212" lon="-8.36733">
+        <ele>263.8</ele>
+      </trkpt>
+      <trkpt lat="39.901941" lon="-8.367226">
+        <ele>267.1</ele>
+      </trkpt>
+      <trkpt lat="39.9017" lon="-8.36724">
+        <ele>268.81819</ele>
+      </trkpt>
+      <trkpt lat="39.901028" lon="-8.367124">
+        <ele>279.2</ele>
+        <name>Travessa da Ladeira, Ansião</name>
+        <extensions>
+          <ns2:locType>routingNode</ns2:locType>
+          <ns2:Extension>
+            <ns2:mapZoom>19</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.901053" lon="-8.367199">
+        <ele>279.3</ele>
+      </trkpt>
+      <trkpt lat="39.90106" lon="-8.367503">
+        <ele>281.1</ele>
+      </trkpt>
+      <trkpt lat="39.901025" lon="-8.367799">
+        <ele>283.1</ele>
+      </trkpt>
+      <trkpt lat="39.90099" lon="-8.368095">
+        <ele>279.4</ele>
+      </trkpt>
+      <trkpt lat="39.900992" lon="-8.368291">
+        <ele>276.2</ele>
+      </trkpt>
+      <trkpt lat="39.90105" lon="-8.368586">
+        <ele>271.3</ele>
+      </trkpt>
+      <trkpt lat="39.901109" lon="-8.368881">
+        <ele>270.0</ele>
+      </trkpt>
+      <trkpt lat="39.901093" lon="-8.369281">
+        <ele>268.1</ele>
+      </trkpt>
+      <trkpt lat="39.901185" lon="-8.369578">
+        <ele>266.5</ele>
+      </trkpt>
+      <trkpt lat="39.901278" lon="-8.369876">
+        <ele>264.1</ele>
+      </trkpt>
+      <trkpt lat="39.901123" lon="-8.369951">
+        <ele>262.5</ele>
+      </trkpt>
+      <trkpt lat="39.90083" lon="-8.36997">
+        <ele>262.2</ele>
+      </trkpt>
+      <trkpt lat="39.900782" lon="-8.370057">
+        <ele>261.6</ele>
+      </trkpt>
+      <trkpt lat="39.900716" lon="-8.370139">
+        <ele>261.2</ele>
+      </trkpt>
+      <trkpt lat="39.900403" lon="-8.370318">
+        <ele>261.0</ele>
+      </trkpt>
+      <trkpt lat="39.900323" lon="-8.370346">
+        <ele>260.9</ele>
+      </trkpt>
+      <trkpt lat="39.90026" lon="-8.37035">
+        <ele>261.2</ele>
+      </trkpt>
+      <trkpt lat="39.900055" lon="-8.370307">
+        <ele>263.2</ele>
+      </trkpt>
+      <trkpt lat="39.899809" lon="-8.370275">
+        <ele>265.6</ele>
+      </trkpt>
+      <trkpt lat="39.899513" lon="-8.370273">
+        <ele>266.2</ele>
+      </trkpt>
+      <trkpt lat="39.899223" lon="-8.370285">
+        <ele>265.2</ele>
+      </trkpt>
+      <trkpt lat="39.898778" lon="-8.370332">
+        <ele>262.1</ele>
+      </trkpt>
+      <trkpt lat="39.898674" lon="-8.37036">
+        <ele>261.4</ele>
+      </trkpt>
+      <trkpt lat="39.898616" lon="-8.370359">
+        <ele>261.1</ele>
+      </trkpt>
+      <trkpt lat="39.898578" lon="-8.370332">
+        <ele>261.2</ele>
+      </trkpt>
+      <trkpt lat="39.898524" lon="-8.370241">
+        <ele>261.9</ele>
+      </trkpt>
+      <trkpt lat="39.898346" lon="-8.369887">
+        <ele>264.7</ele>
+      </trkpt>
+      <trkpt lat="39.898013" lon="-8.369635">
+        <ele>265.8</ele>
+      </trkpt>
+      <trkpt lat="39.897681" lon="-8.369383">
+        <ele>266.6</ele>
+      </trkpt>
+      <trkpt lat="39.897671" lon="-8.369272">
+        <ele>267.4</ele>
+      </trkpt>
+      <trkpt lat="39.897595" lon="-8.36928">
+        <ele>267.8</ele>
+      </trkpt>
+      <trkpt lat="39.897547" lon="-8.369277">
+        <ele>268.1</ele>
+      </trkpt>
+      <trkpt lat="39.897468" lon="-8.36926">
+        <ele>268.5</ele>
+      </trkpt>
+      <trkpt lat="39.897399" lon="-8.369239">
+        <ele>268.9</ele>
+      </trkpt>
+      <trkpt lat="39.897349" lon="-8.369218">
+        <ele>269.3</ele>
+      </trkpt>
+      <trkpt lat="39.897311" lon="-8.369195">
+        <ele>269.6</ele>
+      </trkpt>
+      <trkpt lat="39.896925" lon="-8.368899">
+        <ele>271.8</ele>
+      </trkpt>
+      <trkpt lat="39.896684" lon="-8.368713">
+        <ele>271.0</ele>
+      </trkpt>
+      <trkpt lat="39.896444" lon="-8.368527">
+        <ele>272.7</ele>
+      </trkpt>
+      <trkpt lat="39.89629" lon="-8.368518">
+        <ele>273.0</ele>
+      </trkpt>
+      <trkpt lat="39.896287" lon="-8.368487">
+        <ele>273.2</ele>
+      </trkpt>
+      <trkpt lat="39.896238" lon="-8.36832">
+        <ele>274.8</ele>
+      </trkpt>
+      <trkpt lat="39.896159" lon="-8.36805">
+        <ele>276.1</ele>
+      </trkpt>
+      <trkpt lat="39.895854" lon="-8.368176">
+        <ele>274.3</ele>
+      </trkpt>
+      <trkpt lat="39.895617" lon="-8.368162">
+        <ele>272.8</ele>
+      </trkpt>
+      <trkpt lat="39.895471" lon="-8.368111">
+        <ele>272.5</ele>
+      </trkpt>
+      <trkpt lat="39.89521" lon="-8.368018">
+        <ele>273.3</ele>
+      </trkpt>
+      <trkpt lat="39.894949" lon="-8.367925">
+        <ele>273.9</ele>
+      </trkpt>
+      <trkpt lat="39.894725" lon="-8.367884">
+        <ele>274.2</ele>
+      </trkpt>
+      <trkpt lat="39.894501" lon="-8.367842">
+        <ele>274.5</ele>
+      </trkpt>
+      <trkpt lat="39.894462" lon="-8.367846">
+        <ele>274.5</ele>
+      </trkpt>
+      <trkpt lat="39.894328" lon="-8.367861">
+        <ele>274.6</ele>
+      </trkpt>
+      <trkpt lat="39.893979" lon="-8.367961">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="39.893645" lon="-8.368079">
+        <ele>276.7</ele>
+      </trkpt>
+      <trkpt lat="39.893311" lon="-8.368197">
+        <ele>278.2</ele>
+      </trkpt>
+      <trkpt lat="39.892977" lon="-8.368315">
+        <ele>277.6</ele>
+      </trkpt>
+      <trkpt lat="39.892719" lon="-8.368406">
+        <ele>275.1</ele>
+        <name>Rua Doutor Costa Simões, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.89236" lon="-8.368326">
+        <ele>273.8</ele>
+        <name>Igreja Matriz de Chão de Couce, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.892334" lon="-8.36832">
+        <ele>273.9</ele>
+      </trkpt>
+      <trkpt lat="39.892301" lon="-8.368314">
+        <ele>273.9</ele>
+      </trkpt>
+      <trkpt lat="39.892268" lon="-8.368307">
+        <ele>274.0</ele>
+      </trkpt>
+      <trkpt lat="39.892236" lon="-8.3683">
+        <ele>274.0</ele>
+      </trkpt>
+      <trkpt lat="39.892203" lon="-8.368293">
+        <ele>274.1</ele>
+      </trkpt>
+      <trkpt lat="39.89217" lon="-8.368286">
+        <ele>274.2</ele>
+      </trkpt>
+      <trkpt lat="39.892137" lon="-8.368279">
+        <ele>274.3</ele>
+      </trkpt>
+      <trkpt lat="39.892105" lon="-8.368273">
+        <ele>274.5</ele>
+      </trkpt>
+      <trkpt lat="39.892072" lon="-8.368266">
+        <ele>274.7</ele>
+      </trkpt>
+      <trkpt lat="39.892039" lon="-8.368259">
+        <ele>274.8</ele>
+      </trkpt>
+      <trkpt lat="39.892006" lon="-8.368252">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="39.891973" lon="-8.368245">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="39.891941" lon="-8.368238">
+        <ele>275.1</ele>
+      </trkpt>
+      <trkpt lat="39.891908" lon="-8.368231">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="39.891875" lon="-8.368224">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="39.891842" lon="-8.368218">
+        <ele>274.9</ele>
+      </trkpt>
+      <trkpt lat="39.891809" lon="-8.368211">
+        <ele>274.8</ele>
+      </trkpt>
+      <trkpt lat="39.891777" lon="-8.368204">
+        <ele>274.6</ele>
+      </trkpt>
+      <trkpt lat="39.891751" lon="-8.368198">
+        <ele>274.5</ele>
+      </trkpt>
+      <trkpt lat="39.891735" lon="-8.368194">
+        <ele>274.4</ele>
+        <name>Jardim Infantil do Centro de Bem-Estar Social de Chão de Couce, Chão de Couce</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>19</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.891486" lon="-8.368221">
+        <ele>272.7</ele>
+        <name>Rua do Laranjal, Ansião</name>
+        <extensions>
+          <ns2:locType>routingNode</ns2:locType>
+          <ns2:Extension>
+            <ns2:mapZoom>19</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.89148" lon="-8.368264">
+        <ele>272.7</ele>
+      </trkpt>
+      <trkpt lat="39.891473" lon="-8.368337">
+        <ele>272.6</ele>
+      </trkpt>
+      <trkpt lat="39.891451" lon="-8.368803">
+        <ele>272.9</ele>
+      </trkpt>
+      <trkpt lat="39.891445" lon="-8.368865">
+        <ele>273.1</ele>
+      </trkpt>
+      <trkpt lat="39.891435" lon="-8.368937">
+        <ele>273.3</ele>
+      </trkpt>
+      <trkpt lat="39.891414" lon="-8.369011">
+        <ele>273.5</ele>
+      </trkpt>
+      <trkpt lat="39.891461" lon="-8.369041">
+        <ele>273.7</ele>
+      </trkpt>
+      <trkpt lat="39.891614" lon="-8.369142">
+        <ele>274.1</ele>
+      </trkpt>
+      <trkpt lat="39.891698" lon="-8.369186">
+        <ele>273.9</ele>
+      </trkpt>
+      <trkpt lat="39.89177" lon="-8.369219">
+        <ele>273.5</ele>
+      </trkpt>
+      <trkpt lat="39.891789" lon="-8.369227">
+        <ele>273.4</ele>
+        <name>Fundação Fernanda Marques, Chão de Couce</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.891844" lon="-8.369249">
+        <ele>273.1</ele>
+      </trkpt>
+      <trkpt lat="39.891993" lon="-8.3693">
+        <ele>272.3</ele>
+      </trkpt>
+      <trkpt lat="39.892425" lon="-8.369448">
+        <ele>269.2</ele>
+      </trkpt>
+      <trkpt lat="39.892491" lon="-8.369477">
+        <ele>268.9</ele>
+      </trkpt>
+      <trkpt lat="39.892537" lon="-8.369502">
+        <ele>268.7</ele>
+      </trkpt>
+      <trkpt lat="39.89258" lon="-8.369542">
+        <ele>268.6</ele>
+        <name>Largo Dona Elvira Rêgo, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.89258" lon="-8.369616">
+        <ele>268.3</ele>
+      </trkpt>
+      <trkpt lat="39.892581" lon="-8.369791">
+        <ele>267.7</ele>
+      </trkpt>
+      <trkpt lat="39.892584" lon="-8.370273">
+        <ele>267.0</ele>
+      </trkpt>
+      <trkpt lat="39.892581" lon="-8.370806">
+        <ele>264.9</ele>
+      </trkpt>
+      <trkpt lat="39.892579" lon="-8.371338">
+        <ele>262.8</ele>
+      </trkpt>
+      <trkpt lat="39.892577" lon="-8.371871">
+        <ele>263.1</ele>
+      </trkpt>
+      <trkpt lat="39.892575" lon="-8.372404">
+        <ele>262.8</ele>
+      </trkpt>
+      <trkpt lat="39.892573" lon="-8.372936">
+        <ele>265.0</ele>
+      </trkpt>
+      <trkpt lat="39.892566" lon="-8.373354">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.892573" lon="-8.373473">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.892598" lon="-8.373599">
+        <ele>266.2</ele>
+      </trkpt>
+      <trkpt lat="39.892627" lon="-8.373711">
+        <ele>266.2</ele>
+      </trkpt>
+      <trkpt lat="39.892668" lon="-8.373835">
+        <ele>266.4</ele>
+      </trkpt>
+      <trkpt lat="39.892716" lon="-8.373938">
+        <ele>266.2</ele>
+      </trkpt>
+      <trkpt lat="39.892771" lon="-8.374033">
+        <ele>265.5</ele>
+      </trkpt>
+      <trkpt lat="39.892835" lon="-8.374135">
+        <ele>264.8</ele>
+      </trkpt>
+      <trkpt lat="39.892909" lon="-8.374236">
+        <ele>264.6</ele>
+      </trkpt>
+      <trkpt lat="39.893166" lon="-8.374544">
+        <ele>263.7</ele>
+      </trkpt>
+      <trkpt lat="39.893422" lon="-8.374852">
+        <ele>265.1</ele>
+      </trkpt>
+      <trkpt lat="39.893679" lon="-8.375161">
+        <ele>266.3</ele>
+      </trkpt>
+      <trkpt lat="39.893936" lon="-8.375469">
+        <ele>264.5</ele>
+      </trkpt>
+      <trkpt lat="39.893983" lon="-8.37555">
+        <ele>264.2</ele>
+      </trkpt>
+      <trkpt lat="39.894017" lon="-8.375633">
+        <ele>264.1</ele>
+      </trkpt>
+      <trkpt lat="39.894042" lon="-8.37573">
+        <ele>264.3</ele>
+      </trkpt>
+      <trkpt lat="39.894112" lon="-8.37615">
+        <ele>266.7</ele>
+      </trkpt>
+      <trkpt lat="39.89417" lon="-8.376534">
+        <ele>268.1</ele>
+      </trkpt>
+      <trkpt lat="39.894229" lon="-8.376917">
+        <ele>267.7</ele>
+      </trkpt>
+      <trkpt lat="39.894243" lon="-8.377062">
+        <ele>267.5</ele>
+      </trkpt>
+      <trkpt lat="39.894249" lon="-8.377213">
+        <ele>267.5</ele>
+      </trkpt>
+      <trkpt lat="39.89425" lon="-8.377342">
+        <ele>268.0</ele>
+      </trkpt>
+      <trkpt lat="39.894241" lon="-8.377456">
+        <ele>268.5</ele>
+      </trkpt>
+      <trkpt lat="39.894174" lon="-8.377901">
+        <ele>268.9</ele>
+      </trkpt>
+      <trkpt lat="39.894171" lon="-8.377985">
+        <ele>268.8</ele>
+      </trkpt>
+      <trkpt lat="39.894183" lon="-8.378068">
+        <ele>268.9</ele>
+      </trkpt>
+      <trkpt lat="39.89429" lon="-8.378414">
+        <ele>269.8</ele>
+      </trkpt>
+      <trkpt lat="39.894398" lon="-8.37876">
+        <ele>268.4</ele>
+      </trkpt>
+      <trkpt lat="39.894442" lon="-8.378871">
+        <ele>267.1</ele>
+      </trkpt>
+      <trkpt lat="39.894477" lon="-8.37894">
+        <ele>266.1</ele>
+      </trkpt>
+      <trkpt lat="39.894462" lon="-8.37907">
+        <ele>265.7</ele>
+      </trkpt>
+      <trkpt lat="39.89446" lon="-8.379226">
+        <ele>265.8</ele>
+      </trkpt>
+      <trkpt lat="39.894503" lon="-8.379657">
+        <ele>269.4</ele>
+      </trkpt>
+      <trkpt lat="39.894553" lon="-8.37988">
+        <ele>270.0</ele>
+      </trkpt>
+      <trkpt lat="39.894633" lon="-8.380235">
+        <ele>270.3</ele>
+      </trkpt>
+      <trkpt lat="39.894658" lon="-8.380466">
+        <ele>272.1</ele>
+      </trkpt>
+      <trkpt lat="39.894635" lon="-8.380806">
+        <ele>275.2</ele>
+      </trkpt>
+      <trkpt lat="39.894613" lon="-8.381147">
+        <ele>276.5</ele>
+      </trkpt>
+      <trkpt lat="39.894592" lon="-8.381442">
+        <ele>277.9</ele>
+      </trkpt>
+      <trkpt lat="39.894572" lon="-8.381737">
+        <ele>277.6</ele>
+      </trkpt>
+      <trkpt lat="39.894576" lon="-8.382075">
+        <ele>275.6</ele>
+      </trkpt>
+      <trkpt lat="39.89465" lon="-8.382408">
+        <ele>273.7</ele>
+      </trkpt>
+      <trkpt lat="39.894609" lon="-8.382719">
+        <ele>273.6</ele>
+      </trkpt>
+      <trkpt lat="39.894537" lon="-8.3831">
+        <ele>272.1</ele>
+        <name>Amieira, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.894534" lon="-8.383116">
+        <ele>272.0</ele>
+      </trkpt>
+      <trkpt lat="39.894526" lon="-8.38347">
+        <ele>270.1</ele>
+      </trkpt>
+      <trkpt lat="39.894465" lon="-8.383793">
+        <ele>270.6</ele>
+      </trkpt>
+      <trkpt lat="39.894374" lon="-8.384269">
+        <ele>272.7</ele>
+      </trkpt>
+      <trkpt lat="39.894308" lon="-8.384564">
+        <ele>272.3</ele>
+      </trkpt>
+      <trkpt lat="39.89425" lon="-8.384923">
+        <ele>271.1</ele>
+      </trkpt>
+      <trkpt lat="39.894289" lon="-8.385159">
+        <ele>270.4</ele>
+      </trkpt>
+      <trkpt lat="39.894245" lon="-8.385202">
+        <ele>270.7</ele>
+      </trkpt>
+      <trkpt lat="39.8942" lon="-8.385288">
+        <ele>270.8</ele>
+      </trkpt>
+      <trkpt lat="39.894163" lon="-8.385369">
+        <ele>270.7</ele>
+      </trkpt>
+      <trkpt lat="39.894039" lon="-8.385759">
+        <ele>269.4</ele>
+      </trkpt>
+      <trkpt lat="39.894015" lon="-8.385856">
+        <ele>269.2</ele>
+      </trkpt>
+      <trkpt lat="39.893997" lon="-8.385963">
+        <ele>269.2</ele>
+      </trkpt>
+      <trkpt lat="39.89399" lon="-8.386058">
+        <ele>269.4</ele>
+      </trkpt>
+      <trkpt lat="39.893995" lon="-8.386513">
+        <ele>270.7</ele>
+      </trkpt>
+      <trkpt lat="39.893991" lon="-8.386648">
+        <ele>270.7</ele>
+      </trkpt>
+      <trkpt lat="39.893982" lon="-8.386787">
+        <ele>270.8</ele>
+      </trkpt>
+      <trkpt lat="39.893966" lon="-8.38695">
+        <ele>271.0</ele>
+      </trkpt>
+      <trkpt lat="39.893855" lon="-8.386948">
+        <ele>271.1</ele>
+      </trkpt>
+      <trkpt lat="39.893725" lon="-8.38695">
+        <ele>271.6</ele>
+      </trkpt>
+      <trkpt lat="39.893583" lon="-8.386966">
+        <ele>272.1</ele>
+      </trkpt>
+      <trkpt lat="39.893433" lon="-8.387005">
+        <ele>272.1</ele>
+      </trkpt>
+      <trkpt lat="39.893283" lon="-8.387066">
+        <ele>271.9</ele>
+      </trkpt>
+      <trkpt lat="39.893185" lon="-8.387117">
+        <ele>271.9</ele>
+      </trkpt>
+      <trkpt lat="39.893057" lon="-8.387198">
+        <ele>272.0</ele>
+      </trkpt>
+      <trkpt lat="39.892895" lon="-8.387302">
+        <ele>271.7</ele>
+      </trkpt>
+      <trkpt lat="39.892806" lon="-8.387324">
+        <ele>271.6</ele>
+      </trkpt>
+      <trkpt lat="39.892692" lon="-8.387326">
+        <ele>271.8</ele>
+      </trkpt>
+      <trkpt lat="39.892583" lon="-8.387388">
+        <ele>272.4</ele>
+      </trkpt>
+      <trkpt lat="39.89227" lon="-8.387565">
+        <ele>274.2</ele>
+      </trkpt>
+      <trkpt lat="39.892187" lon="-8.387621">
+        <ele>274.9</ele>
+      </trkpt>
+      <trkpt lat="39.89204" lon="-8.387721">
+        <ele>275.5</ele>
+      </trkpt>
+      <trkpt lat="39.891914" lon="-8.387821">
+        <ele>276.4</ele>
+      </trkpt>
+      <trkpt lat="39.89197" lon="-8.387997">
+        <ele>277.5</ele>
+      </trkpt>
+      <trkpt lat="39.89208" lon="-8.387943">
+        <ele>277.2</ele>
+      </trkpt>
+      <trkpt lat="39.892215" lon="-8.387898">
+        <ele>276.9</ele>
+      </trkpt>
+      <trkpt lat="39.892299" lon="-8.387903">
+        <ele>276.7</ele>
+        <name>Travessa da Serra do Mouro, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.892382" lon="-8.387909">
+        <ele>276.5</ele>
+      </trkpt>
+      <trkpt lat="39.892709" lon="-8.387984">
+        <ele>275.7</ele>
+      </trkpt>
+      <trkpt lat="39.892991" lon="-8.388056">
+        <ele>275.9</ele>
+      </trkpt>
+      <trkpt lat="39.893146" lon="-8.388067">
+        <ele>276.4</ele>
+      </trkpt>
+      <trkpt lat="39.893302" lon="-8.388043">
+        <ele>276.9</ele>
+      </trkpt>
+      <trkpt lat="39.893698" lon="-8.387927">
+        <ele>275.0</ele>
+      </trkpt>
+      <trkpt lat="39.893841" lon="-8.387941">
+        <ele>273.8</ele>
+      </trkpt>
+      <trkpt lat="39.893811" lon="-8.388253">
+        <ele>275.2</ele>
+      </trkpt>
+      <trkpt lat="39.89378" lon="-8.388565">
+        <ele>276.9</ele>
+      </trkpt>
+      <trkpt lat="39.893932" lon="-8.388611">
+        <ele>275.7</ele>
+      </trkpt>
+      <trkpt lat="39.894275" lon="-8.388649">
+        <ele>275.8</ele>
+      </trkpt>
+      <trkpt lat="39.894648" lon="-8.388644">
+        <ele>277.3</ele>
+      </trkpt>
+      <trkpt lat="39.894796" lon="-8.388619">
+        <ele>276.6</ele>
+      </trkpt>
+      <trkpt lat="39.894967" lon="-8.388627">
+        <ele>275.3</ele>
+      </trkpt>
+      <trkpt lat="39.8951" lon="-8.38867">
+        <ele>274.4</ele>
+      </trkpt>
+      <trkpt lat="39.895423" lon="-8.388837">
+        <ele>271.9</ele>
+      </trkpt>
+      <trkpt lat="39.895747" lon="-8.389004">
+        <ele>269.5</ele>
+      </trkpt>
+      <trkpt lat="39.89607" lon="-8.389171">
+        <ele>268.1</ele>
+      </trkpt>
+      <trkpt lat="39.896393" lon="-8.389338">
+        <ele>268.0</ele>
+      </trkpt>
+      <trkpt lat="39.896615" lon="-8.389464">
+        <ele>268.0</ele>
+      </trkpt>
+      <trkpt lat="39.8969" lon="-8.389581">
+        <ele>268.2</ele>
+      </trkpt>
+      <trkpt lat="39.897185" lon="-8.389698">
+        <ele>266.3</ele>
+      </trkpt>
+      <trkpt lat="39.897434" lon="-8.389796">
+        <ele>265.0</ele>
+      </trkpt>
+      <trkpt lat="39.897683" lon="-8.389893">
+        <ele>263.9</ele>
+      </trkpt>
+      <trkpt lat="39.898014" lon="-8.389979">
+        <ele>263.1</ele>
+      </trkpt>
+      <trkpt lat="39.898201" lon="-8.389942">
+        <ele>264.0</ele>
+      </trkpt>
+      <trkpt lat="39.898224" lon="-8.389679">
+        <ele>265.3</ele>
+      </trkpt>
+      <trkpt lat="39.898294" lon="-8.389324">
+        <ele>265.2</ele>
+      </trkpt>
+      <trkpt lat="39.89842" lon="-8.389014">
+        <ele>263.9</ele>
+      </trkpt>
+      <trkpt lat="39.898528" lon="-8.388446">
+        <ele>261.4</ele>
+      </trkpt>
+      <trkpt lat="39.898591" lon="-8.38808">
+        <ele>260.1</ele>
+      </trkpt>
+      <trkpt lat="39.898655" lon="-8.387715">
+        <ele>259.8</ele>
+      </trkpt>
+      <trkpt lat="39.898515" lon="-8.387557">
+        <ele>260.3</ele>
+      </trkpt>
+      <trkpt lat="39.898639" lon="-8.387103">
+        <ele>259.9</ele>
+      </trkpt>
+      <trkpt lat="39.898764" lon="-8.386649">
+        <ele>259.4</ele>
+      </trkpt>
+      <trkpt lat="39.898796" lon="-8.386611">
+        <ele>259.3</ele>
+      </trkpt>
+      <trkpt lat="39.898838" lon="-8.386599">
+        <ele>259.1</ele>
+      </trkpt>
+      <trkpt lat="39.898897" lon="-8.386593">
+        <ele>259.0</ele>
+      </trkpt>
+      <trkpt lat="39.898967" lon="-8.386593">
+        <ele>258.9</ele>
+      </trkpt>
+      <trkpt lat="39.899005" lon="-8.386567">
+        <ele>258.9</ele>
+      </trkpt>
+      <trkpt lat="39.899048" lon="-8.386523">
+        <ele>259.0</ele>
+      </trkpt>
+      <trkpt lat="39.89907" lon="-8.386467">
+        <ele>259.0</ele>
+      </trkpt>
+      <trkpt lat="39.899168" lon="-8.385968">
+        <ele>258.9</ele>
+      </trkpt>
+      <trkpt lat="39.899266" lon="-8.38547">
+        <ele>260.6</ele>
+      </trkpt>
+      <trkpt lat="39.899363" lon="-8.384971">
+        <ele>264.3</ele>
+      </trkpt>
+      <trkpt lat="39.89946" lon="-8.384472">
+        <ele>263.1</ele>
+      </trkpt>
+      <trkpt lat="39.899476" lon="-8.384346">
+        <ele>262.2</ele>
+      </trkpt>
+      <trkpt lat="39.899467" lon="-8.38424">
+        <ele>261.4</ele>
+      </trkpt>
+      <trkpt lat="39.899418" lon="-8.383993">
+        <ele>261.0</ele>
+      </trkpt>
+      <trkpt lat="39.899714" lon="-8.383942">
+        <ele>260.2</ele>
+      </trkpt>
+      <trkpt lat="39.899901" lon="-8.383867">
+        <ele>259.2</ele>
+      </trkpt>
+      <trkpt lat="39.900138" lon="-8.383692">
+        <ele>258.2</ele>
+      </trkpt>
+      <trkpt lat="39.900535" lon="-8.383526">
+        <ele>258.7</ele>
+      </trkpt>
+      <trkpt lat="39.900805" lon="-8.383467">
+        <ele>259.5</ele>
+      </trkpt>
+      <trkpt lat="39.901039" lon="-8.383486">
+        <ele>260.4</ele>
+      </trkpt>
+      <trkpt lat="39.901376" lon="-8.383609">
+        <ele>261.9</ele>
+      </trkpt>
+      <trkpt lat="39.901444" lon="-8.383601">
+        <ele>262.2</ele>
+      </trkpt>
+      <trkpt lat="39.901642" lon="-8.38347">
+        <ele>262.6</ele>
+      </trkpt>
+      <trkpt lat="39.901848" lon="-8.383247">
+        <ele>261.6</ele>
+      </trkpt>
+      <trkpt lat="39.902054" lon="-8.383024">
+        <ele>259.5</ele>
+      </trkpt>
+      <trkpt lat="39.902126" lon="-8.382893">
+        <ele>258.2</ele>
+      </trkpt>
+      <trkpt lat="39.902287" lon="-8.382557">
+        <ele>256.1</ele>
+      </trkpt>
+      <trkpt lat="39.902449" lon="-8.382221">
+        <ele>256.0</ele>
+      </trkpt>
+      <trkpt lat="39.902611" lon="-8.381884">
+        <ele>257.2</ele>
+      </trkpt>
+      <trkpt lat="39.902721" lon="-8.381615">
+        <ele>257.9</ele>
+      </trkpt>
+      <trkpt lat="39.902831" lon="-8.381345">
+        <ele>258.3</ele>
+      </trkpt>
+      <trkpt lat="39.902903" lon="-8.381131">
+        <ele>258.7</ele>
+      </trkpt>
+      <trkpt lat="39.902971" lon="-8.38077">
+        <ele>258.3</ele>
+      </trkpt>
+      <trkpt lat="39.90304" lon="-8.38041">
+        <ele>255.9</ele>
+      </trkpt>
+      <trkpt lat="39.903142" lon="-8.380001">
+        <ele>254.0</ele>
+      </trkpt>
+      <trkpt lat="39.903179" lon="-8.379688">
+        <ele>253.4</ele>
+      </trkpt>
+      <trkpt lat="39.90319" lon="-8.379588">
+        <ele>253.4</ele>
+        <name>Travessa Canto das Relvas, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.903202" lon="-8.379492">
+        <ele>253.4</ele>
+      </trkpt>
+      <trkpt lat="39.903228" lon="-8.379258">
+        <ele>253.7</ele>
+      </trkpt>
+      <trkpt lat="39.903303" lon="-8.378969">
+        <ele>254.7</ele>
+      </trkpt>
+      <trkpt lat="39.903379" lon="-8.378679">
+        <ele>255.7</ele>
+      </trkpt>
+      <trkpt lat="39.903401" lon="-8.378416">
+        <ele>255.8</ele>
+      </trkpt>
+      <trkpt lat="39.903341" lon="-8.378392">
+        <ele>256.1</ele>
+      </trkpt>
+      <trkpt lat="39.903304" lon="-8.37836">
+        <ele>256.1</ele>
+      </trkpt>
+      <trkpt lat="39.903249" lon="-8.378269">
+        <ele>256.1</ele>
+      </trkpt>
+      <trkpt lat="39.903201" lon="-8.378139">
+        <ele>255.9</ele>
+      </trkpt>
+      <trkpt lat="39.903436" lon="-8.377881">
+        <ele>253.7</ele>
+      </trkpt>
+      <trkpt lat="39.903671" lon="-8.377624">
+        <ele>252.9</ele>
+      </trkpt>
+      <trkpt lat="39.903795" lon="-8.377483">
+        <ele>252.9</ele>
+        <name>Travessa do Pinheiro, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.903874" lon="-8.377395">
+        <ele>252.9</ele>
+      </trkpt>
+      <trkpt lat="39.904077" lon="-8.377166">
+        <ele>255.0</ele>
+      </trkpt>
+      <trkpt lat="39.904113" lon="-8.377113">
+        <ele>255.2</ele>
+      </trkpt>
+      <trkpt lat="39.904137" lon="-8.377061">
+        <ele>255.3</ele>
+      </trkpt>
+      <trkpt lat="39.904156" lon="-8.377003">
+        <ele>255.2</ele>
+      </trkpt>
+      <trkpt lat="39.904278" lon="-8.376506">
+        <ele>254.2</ele>
+      </trkpt>
+      <trkpt lat="39.904309" lon="-8.376421">
+        <ele>254.1</ele>
+      </trkpt>
+      <trkpt lat="39.904353" lon="-8.376343">
+        <ele>253.9</ele>
+      </trkpt>
+      <trkpt lat="39.904434" lon="-8.376241">
+        <ele>253.5</ele>
+      </trkpt>
+      <trkpt lat="39.904503" lon="-8.376155">
+        <ele>253.3</ele>
+      </trkpt>
+      <trkpt lat="39.904662" lon="-8.375989">
+        <ele>253.5</ele>
+      </trkpt>
+      <trkpt lat="39.904712" lon="-8.375945">
+        <ele>253.4</ele>
+      </trkpt>
+      <trkpt lat="39.904777" lon="-8.375915">
+        <ele>253.2</ele>
+      </trkpt>
+      <trkpt lat="39.904828" lon="-8.375898">
+        <ele>252.9</ele>
+      </trkpt>
+      <trkpt lat="39.90488" lon="-8.375892">
+        <ele>252.6</ele>
+      </trkpt>
+      <trkpt lat="39.905022" lon="-8.375909">
+        <ele>252.2</ele>
+      </trkpt>
+      <trkpt lat="39.905104" lon="-8.3754">
+        <ele>251.8</ele>
+      </trkpt>
+      <trkpt lat="39.905186" lon="-8.37489">
+        <ele>251.4</ele>
+      </trkpt>
+      <trkpt lat="39.905267" lon="-8.37438">
+        <ele>251.2</ele>
+      </trkpt>
+      <trkpt lat="39.905504" lon="-8.374538">
+        <ele>250.2</ele>
+      </trkpt>
+      <trkpt lat="39.905928" lon="-8.374683">
+        <ele>248.6</ele>
+      </trkpt>
+      <trkpt lat="39.906352" lon="-8.374828">
+        <ele>249.3</ele>
+      </trkpt>
+      <trkpt lat="39.906677" lon="-8.374903">
+        <ele>248.9</ele>
+      </trkpt>
+      <trkpt lat="39.906929" lon="-8.374932">
+        <ele>247.0</ele>
+      </trkpt>
+      <trkpt lat="39.907181" lon="-8.374962">
+        <ele>246.8</ele>
+      </trkpt>
+      <trkpt lat="39.907325" lon="-8.374996">
+        <ele>247.3</ele>
+      </trkpt>
+      <trkpt lat="39.907543" lon="-8.37507">
+        <ele>248.4</ele>
+      </trkpt>
+      <trkpt lat="39.907761" lon="-8.375144">
+        <ele>249.5</ele>
+      </trkpt>
+      <trkpt lat="39.907985" lon="-8.37525">
+        <ele>250.8</ele>
+      </trkpt>
+      <trkpt lat="39.908209" lon="-8.375356">
+        <ele>250.7</ele>
+      </trkpt>
+      <trkpt lat="39.908238" lon="-8.375406">
+        <ele>250.7</ele>
+      </trkpt>
+      <trkpt lat="39.908325" lon="-8.375346">
+        <ele>250.2</ele>
+      </trkpt>
+      <trkpt lat="39.908387" lon="-8.375315">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.908457" lon="-8.375293">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.908525" lon="-8.375285">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.908722" lon="-8.375269">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.9088" lon="-8.375267">
+        <ele>250.1</ele>
+      </trkpt>
+      <trkpt lat="39.908859" lon="-8.375267">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.908907" lon="-8.375272">
+        <ele>250.0</ele>
+      </trkpt>
+      <trkpt lat="39.90895" lon="-8.375284">
+        <ele>249.9</ele>
+      </trkpt>
+      <trkpt lat="39.909" lon="-8.375301">
+        <ele>249.7</ele>
+      </trkpt>
+      <trkpt lat="39.9093" lon="-8.37543">
+        <ele>248.1</ele>
+      </trkpt>
+      <trkpt lat="39.909648" lon="-8.375576">
+        <ele>245.4</ele>
+      </trkpt>
+      <trkpt lat="39.909997" lon="-8.375722">
+        <ele>244.4</ele>
+      </trkpt>
+      <trkpt lat="39.910063" lon="-8.375743">
+        <ele>244.3</ele>
+      </trkpt>
+      <trkpt lat="39.9103" lon="-8.375795">
+        <ele>244.1</ele>
+      </trkpt>
+      <trkpt lat="39.910381" lon="-8.37531">
+        <ele>244.0</ele>
+      </trkpt>
+      <trkpt lat="39.910461" lon="-8.374825">
+        <ele>243.2</ele>
+      </trkpt>
+      <trkpt lat="39.910504" lon="-8.374653">
+        <ele>243.2</ele>
+      </trkpt>
+      <trkpt lat="39.910631" lon="-8.374385">
+        <ele>242.7</ele>
+      </trkpt>
+      <trkpt lat="39.910701" lon="-8.374202">
+        <ele>242.3</ele>
+      </trkpt>
+      <trkpt lat="39.91074" lon="-8.374015">
+        <ele>242.5</ele>
+      </trkpt>
+      <trkpt lat="39.910771" lon="-8.373553">
+        <ele>243.9</ele>
+      </trkpt>
+      <trkpt lat="39.911144" lon="-8.373625">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.911518" lon="-8.373696">
+        <ele>245.7</ele>
+      </trkpt>
+      <trkpt lat="39.911892" lon="-8.373768">
+        <ele>245.9</ele>
+      </trkpt>
+      <trkpt lat="39.911891" lon="-8.373658">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.912005" lon="-8.373645">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.912086" lon="-8.373627">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.912124" lon="-8.373603">
+        <ele>245.9</ele>
+      </trkpt>
+      <trkpt lat="39.912157" lon="-8.373582">
+        <ele>245.8</ele>
+      </trkpt>
+      <trkpt lat="39.912534" lon="-8.373307">
+        <ele>245.0</ele>
+      </trkpt>
+      <trkpt lat="39.91265" lon="-8.373236">
+        <ele>245.4</ele>
+      </trkpt>
+      <trkpt lat="39.91271" lon="-8.373242">
+        <ele>245.9</ele>
+      </trkpt>
+      <trkpt lat="39.912753" lon="-8.373246">
+        <ele>246.3</ele>
+      </trkpt>
+      <trkpt lat="39.912847" lon="-8.373308">
+        <ele>247.2</ele>
+      </trkpt>
+      <trkpt lat="39.912917" lon="-8.373316">
+        <ele>247.5</ele>
+      </trkpt>
+      <trkpt lat="39.913174" lon="-8.373207">
+        <ele>247.6</ele>
+      </trkpt>
+      <trkpt lat="39.913413" lon="-8.373099">
+        <ele>247.2</ele>
+      </trkpt>
+      <trkpt lat="39.913651" lon="-8.37299">
+        <ele>246.8</ele>
+      </trkpt>
+      <trkpt lat="39.913837" lon="-8.372885">
+        <ele>246.5</ele>
+      </trkpt>
+      <trkpt lat="39.913896" lon="-8.37281">
+        <ele>246.2</ele>
+      </trkpt>
+      <trkpt lat="39.914042" lon="-8.372668">
+        <ele>246.8</ele>
+      </trkpt>
+      <trkpt lat="39.914058" lon="-8.372656">
+        <ele>246.9</ele>
+      </trkpt>
+      <trkpt lat="39.914405" lon="-8.372366">
+        <ele>248.0</ele>
+      </trkpt>
+      <trkpt lat="39.914623" lon="-8.37222">
+        <ele>247.8</ele>
+      </trkpt>
+      <trkpt lat="39.914841" lon="-8.372073">
+        <ele>246.6</ele>
+      </trkpt>
+      <trkpt lat="39.91519" lon="-8.371931">
+        <ele>244.9</ele>
+      </trkpt>
+      <trkpt lat="39.91547" lon="-8.371843">
+        <ele>245.4</ele>
+      </trkpt>
+      <trkpt lat="39.91575" lon="-8.371756">
+        <ele>246.1</ele>
+      </trkpt>
+      <trkpt lat="39.91602" lon="-8.371672">
+        <ele>246.1</ele>
+      </trkpt>
+      <trkpt lat="39.91629" lon="-8.371589">
+        <ele>245.8</ele>
+      </trkpt>
+      <trkpt lat="39.91647" lon="-8.371491">
+        <ele>245.3</ele>
+      </trkpt>
+      <trkpt lat="39.916746" lon="-8.371236">
+        <ele>244.7</ele>
+      </trkpt>
+      <trkpt lat="39.916843" lon="-8.371165">
+        <ele>244.8</ele>
+      </trkpt>
+      <trkpt lat="39.917074" lon="-8.371104">
+        <ele>245.4</ele>
+      </trkpt>
+      <trkpt lat="39.917217" lon="-8.37108">
+        <ele>245.9</ele>
+      </trkpt>
+      <trkpt lat="39.917217" lon="-8.370997">
+        <ele>245.6</ele>
+      </trkpt>
+      <trkpt lat="39.917229" lon="-8.370969">
+        <ele>245.5</ele>
+      </trkpt>
+      <trkpt lat="39.917247" lon="-8.370948">
+        <ele>245.5</ele>
+      </trkpt>
+      <trkpt lat="39.917298" lon="-8.370923">
+        <ele>245.7</ele>
+      </trkpt>
+      <trkpt lat="39.917468" lon="-8.370934">
+        <ele>246.4</ele>
+      </trkpt>
+      <trkpt lat="39.917499" lon="-8.370959">
+        <ele>246.5</ele>
+      </trkpt>
+      <trkpt lat="39.917513" lon="-8.370983">
+        <ele>246.6</ele>
+      </trkpt>
+      <trkpt lat="39.917529" lon="-8.371021">
+        <ele>246.7</ele>
+      </trkpt>
+      <trkpt lat="39.917541" lon="-8.371083">
+        <ele>246.9</ele>
+      </trkpt>
+      <trkpt lat="39.917773" lon="-8.3711">
+        <ele>246.0</ele>
+      </trkpt>
+      <trkpt lat="39.917762" lon="-8.370717">
+        <ele>243.6</ele>
+      </trkpt>
+      <trkpt lat="39.917751" lon="-8.370334">
+        <ele>242.2</ele>
+      </trkpt>
+      <trkpt lat="39.917744" lon="-8.370276">
+        <ele>242.1</ele>
+      </trkpt>
+      <trkpt lat="39.917694" lon="-8.370156">
+        <ele>242.2</ele>
+      </trkpt>
+      <trkpt lat="39.917687" lon="-8.370085">
+        <ele>242.2</ele>
+      </trkpt>
+      <trkpt lat="39.917688" lon="-8.369628">
+        <ele>242.2</ele>
+      </trkpt>
+      <trkpt lat="39.917689" lon="-8.369171">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.91769" lon="-8.369071">
+        <ele>243.0</ele>
+        <name>Rua do Carvalhal, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.917691" lon="-8.368715">
+        <ele>242.9</ele>
+      </trkpt>
+      <trkpt lat="39.917562" lon="-8.368676">
+        <ele>242.3</ele>
+      </trkpt>
+      <trkpt lat="39.917574" lon="-8.368128">
+        <ele>241.9</ele>
+      </trkpt>
+      <trkpt lat="39.917585" lon="-8.36758">
+        <ele>243.6</ele>
+      </trkpt>
+      <trkpt lat="39.917587" lon="-8.367509">
+        <ele>243.8</ele>
+      </trkpt>
+      <trkpt lat="39.917624" lon="-8.367281">
+        <ele>243.8</ele>
+      </trkpt>
+      <trkpt lat="39.917685" lon="-8.367038">
+        <ele>243.1</ele>
+      </trkpt>
+      <trkpt lat="39.917676" lon="-8.366947">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.91766" lon="-8.366473">
+        <ele>243.2</ele>
+      </trkpt>
+      <trkpt lat="39.917643" lon="-8.365998">
+        <ele>242.0</ele>
+      </trkpt>
+      <trkpt lat="39.917642" lon="-8.365991">
+        <ele>242.0</ele>
+      </trkpt>
+      <trkpt lat="39.917639" lon="-8.365893">
+        <ele>242.1</ele>
+      </trkpt>
+      <trkpt lat="39.917627" lon="-8.365556">
+        <ele>242.1</ele>
+      </trkpt>
+      <trkpt lat="39.917615" lon="-8.365218">
+        <ele>242.8</ele>
+      </trkpt>
+      <trkpt lat="39.91758" lon="-8.364709">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.917546" lon="-8.3642">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.917552" lon="-8.36414">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.917581" lon="-8.364103">
+        <ele>243.0</ele>
+      </trkpt>
+      <trkpt lat="39.917709" lon="-8.364095">
+        <ele>242.9</ele>
+      </trkpt>
+      <trkpt lat="39.918014" lon="-8.364147">
+        <ele>242.1</ele>
+      </trkpt>
+      <trkpt lat="39.91832" lon="-8.3642">
+        <ele>241.0</ele>
+      </trkpt>
+      <trkpt lat="39.918625" lon="-8.364252">
+        <ele>241.9</ele>
+      </trkpt>
+      <trkpt lat="39.919058" lon="-8.364233">
+        <ele>243.9</ele>
+      </trkpt>
+      <trkpt lat="39.919491" lon="-8.364215">
+        <ele>245.0</ele>
+      </trkpt>
+      <trkpt lat="39.919923" lon="-8.364196">
+        <ele>244.9</ele>
+      </trkpt>
+      <trkpt lat="39.920046" lon="-8.364183">
+        <ele>244.9</ele>
+      </trkpt>
+      <trkpt lat="39.920191" lon="-8.364088">
+        <ele>245.3</ele>
+      </trkpt>
+      <trkpt lat="39.920267" lon="-8.36402">
+        <ele>245.5</ele>
+      </trkpt>
+      <trkpt lat="39.920351" lon="-8.363946">
+        <ele>245.6</ele>
+      </trkpt>
+      <trkpt lat="39.920494" lon="-8.363817">
+        <ele>245.2</ele>
+      </trkpt>
+      <trkpt lat="39.920749" lon="-8.363599">
+        <ele>244.9</ele>
+      </trkpt>
+      <trkpt lat="39.920892" lon="-8.363462">
+        <ele>245.7</ele>
+      </trkpt>
+      <trkpt lat="39.92099" lon="-8.363419">
+        <ele>246.3</ele>
+      </trkpt>
+      <trkpt lat="39.921143" lon="-8.363385">
+        <ele>246.9</ele>
+      </trkpt>
+      <trkpt lat="39.921255" lon="-8.363318">
+        <ele>247.0</ele>
+      </trkpt>
+      <trkpt lat="39.921349" lon="-8.363146">
+        <ele>247.5</ele>
+      </trkpt>
+      <trkpt lat="39.92137" lon="-8.363116">
+        <ele>247.7</ele>
+      </trkpt>
+      <trkpt lat="39.921389" lon="-8.363099">
+        <ele>247.8</ele>
+      </trkpt>
+      <trkpt lat="39.921406" lon="-8.363098">
+        <ele>247.9</ele>
+      </trkpt>
+      <trkpt lat="39.921452" lon="-8.363135">
+        <ele>247.9</ele>
+      </trkpt>
+      <trkpt lat="39.921509" lon="-8.363185">
+        <ele>247.9</ele>
+      </trkpt>
+      <trkpt lat="39.921503" lon="-8.362708">
+        <ele>249.7</ele>
+      </trkpt>
+      <trkpt lat="39.921498" lon="-8.362232">
+        <ele>251.5</ele>
+      </trkpt>
+      <trkpt lat="39.921498" lon="-8.362149">
+        <ele>251.7</ele>
+      </trkpt>
+      <trkpt lat="39.921505" lon="-8.362065">
+        <ele>252.0</ele>
+      </trkpt>
+      <trkpt lat="39.921614" lon="-8.361681">
+        <ele>254.8</ele>
+      </trkpt>
+      <trkpt lat="39.921662" lon="-8.361511">
+        <ele>255.4</ele>
+        <name>Largo 12 de Novembro, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.921723" lon="-8.361297">
+        <ele>256.2</ele>
+      </trkpt>
+      <trkpt lat="39.921832" lon="-8.360912">
+        <ele>256.7</ele>
+      </trkpt>
+      <trkpt lat="39.921881" lon="-8.36063">
+        <ele>256.7</ele>
+      </trkpt>
+      <trkpt lat="39.921888" lon="-8.36044">
+        <ele>257.2</ele>
+      </trkpt>
+      <trkpt lat="39.921901" lon="-8.360223">
+        <ele>257.9</ele>
+      </trkpt>
+      <trkpt lat="39.921914" lon="-8.359718">
+        <ele>258.8</ele>
+      </trkpt>
+      <trkpt lat="39.921928" lon="-8.359155">
+        <ele>261.0</ele>
+      </trkpt>
+      <trkpt lat="39.921958" lon="-8.358801">
+        <ele>263.7</ele>
+      </trkpt>
+      <trkpt lat="39.921987" lon="-8.358447">
+        <ele>265.8</ele>
+      </trkpt>
+      <trkpt lat="39.922048" lon="-8.358089">
+        <ele>267.2</ele>
+      </trkpt>
+      <trkpt lat="39.922108" lon="-8.357731">
+        <ele>267.8</ele>
+      </trkpt>
+      <trkpt lat="39.922201" lon="-8.357445">
+        <ele>267.8</ele>
+      </trkpt>
+      <trkpt lat="39.922299" lon="-8.357146">
+        <ele>267.3</ele>
+      </trkpt>
+      <trkpt lat="39.922325" lon="-8.357077">
+        <ele>267.4</ele>
+      </trkpt>
+      <trkpt lat="39.922354" lon="-8.357015">
+        <ele>267.3</ele>
+      </trkpt>
+      <trkpt lat="39.922432" lon="-8.357037">
+        <ele>267.3</ele>
+      </trkpt>
+      <trkpt lat="39.922504" lon="-8.357069">
+        <ele>267.4</ele>
+      </trkpt>
+      <trkpt lat="39.922728" lon="-8.35723">
+        <ele>267.2</ele>
+      </trkpt>
+      <trkpt lat="39.922953" lon="-8.357391">
+        <ele>266.1</ele>
+      </trkpt>
+      <trkpt lat="39.923182" lon="-8.357549">
+        <ele>266.0</ele>
+      </trkpt>
+      <trkpt lat="39.923187" lon="-8.357553">
+        <ele>266.0</ele>
+        <name>Praça Costa Rego, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="39.923384" lon="-8.357293">
+        <ele>266.2</ele>
+        <name>Praça Costa Rego, Ansião</name>
+        <extensions>
+          <ns2:Extension>
+            <ns2:mapZoom>13</ns2:mapZoom>
+          </ns2:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
