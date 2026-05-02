@@ -57,17 +57,17 @@ function parseGpx(xml: string, fileName: string): Route | null {
   if (!trk) return null;
 
   const name = getText(trk, 'name') || fileName.replace(/\.gpx$/i, '');
-  const trkseg = trk.getElementsByTagName('trkseg')[0];
-  if (!trkseg) return null;
-
   const points: { lat: number; lon: number; ele?: number }[] = [];
-  const pts = trkseg.getElementsByTagName('trkpt');
+  const pts = trk.getElementsByTagName('trkpt');
   for (let i = 0; i < pts.length; i++) {
     const p = pts[i];
     const lat = parseFloat(p.getAttribute('lat') ?? '');
     const lon = parseFloat(p.getAttribute('lon') ?? '');
     if (!Number.isFinite(lat) || !Number.isFinite(lon)) continue;
-    const eleStr = p.getElementsByTagName('ele')[0]?.textContent?.trim() ?? '';
+    const eleStr =
+      p.getElementsByTagName('ele')[0]?.textContent?.trim() ||
+      p.getAttribute('ele') ||
+      '';
     const ele = parseFloat(eleStr);
     points.push({ lat, lon, ele: Number.isFinite(ele) ? ele : undefined });
   }
@@ -140,16 +140,17 @@ function haversineMeters(lat1: number, lon1: number, lat2: number, lon2: number)
 
 function elevationGainFromAltitudes(elevationsM: (number | null)[]): number | null {
   let gain = 0;
-  let hasAny = false;
-  for (let i = 1; i < elevationsM.length; i++) {
-    const prev = elevationsM[i - 1];
-    const cur = elevationsM[i];
-    if (prev != null && cur != null) {
-      hasAny = true;
-      if (cur > prev) gain += cur - prev;
+  let previous: number | null = null;
+  let hasPair = false;
+  for (const elevation of elevationsM) {
+    if (elevation == null || !Number.isFinite(elevation)) continue;
+    if (previous != null) {
+      hasPair = true;
+      if (elevation > previous) gain += elevation - previous;
     }
+    previous = elevation;
   }
-  return hasAny ? Math.round(gain) : null;
+  return hasPair ? Math.round(gain) : null;
 }
 
 function safeId(name: string): string {
@@ -218,17 +219,24 @@ function tilesForBBox(bbox: BBox, zoom: number): Array<{ x: number; y: number; m
 /* Decimation (Ramer–Douglas–Peucker style optional)                   */
 /* ------------------------------------------------------------------ */
 
-function decimate(coords: [number, number][], maxPoints: number): [number, number][] {
-  if (coords.length <= maxPoints) return coords;
+function decimateRoute(
+  coords: [number, number][],
+  elevationsM: (number | null)[],
+  maxPoints: number
+): { coordinates: [number, number][]; elevationsM: (number | null)[] } {
+  if (coords.length <= maxPoints) return { coordinates: coords, elevationsM };
   const step = Math.ceil(coords.length / maxPoints);
-  const out: [number, number][] = [];
+  const coordinates: [number, number][] = [];
+  const elevations: (number | null)[] = [];
   for (let i = 0; i < coords.length; i += step) {
-    out.push(coords[i]);
+    coordinates.push(coords[i]);
+    elevations.push(elevationsM[i] ?? null);
   }
-  if (out[out.length - 1] !== coords[coords.length - 1]) {
-    out.push(coords[coords.length - 1]);
+  if (coordinates[coordinates.length - 1] !== coords[coords.length - 1]) {
+    coordinates.push(coords[coords.length - 1]);
+    elevations.push(elevationsM[elevationsM.length - 1] ?? null);
   }
-  return out;
+  return { coordinates, elevationsM: elevations };
 }
 
 /* ------------------------------------------------------------------ */
@@ -269,6 +277,8 @@ async function build() {
 
   // Write full routes
   for (const route of routes) {
+    const decimated = decimateRoute(route.coordinates, route.elevationsM, MAX_POINTS);
+    const hasElevations = decimated.elevationsM.some((e) => e != null && Number.isFinite(e));
     const geojson = {
       type: 'Feature',
       properties: {
@@ -276,10 +286,11 @@ async function build() {
         name: route.name,
         distanceMeters: route.distanceMeters,
         elevationGainM: route.elevationGainM,
+        ...(hasElevations ? { elevationsM: decimated.elevationsM } : {}),
       },
       geometry: {
         type: 'LineString',
-        coordinates: decimate(route.coordinates, MAX_POINTS),
+        coordinates: decimated.coordinates,
       },
     };
     fs.writeFileSync(
