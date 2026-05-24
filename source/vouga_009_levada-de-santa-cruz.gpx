@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HighKeer Route Generator"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Levada de Santa Cruz</name>
+    <time>2024-06-29T08:17:17Z</time>
+  </metadata>
+  <trk>
+    <name>Levada de Santa Cruz</name>
+    <trkseg>
+      <trkpt lat="40.848588" lon="-8.344091">
+        <ele>336.2</ele>
+        <time>2024-06-29T08:17:17Z</time>
+      </trkpt>
+      <trkpt lat="40.848528" lon="-8.344058">
+        <ele>336.4</ele>
+        <time>2024-06-29T08:17:23Z</time>
+      </trkpt>
+      <trkpt lat="40.848579" lon="-8.344355">
+        <ele>337.2</ele>
+        <time>2024-06-29T08:17:30Z</time>
+      </trkpt>
+      <trkpt lat="40.848648" lon="-8.344724">
+        <ele>336.3</ele>
+        <time>2024-06-29T08:17:37Z</time>
+      </trkpt>
+      <trkpt lat="40.848185" lon="-8.345057">
+        <ele>335.1</ele>
+        <time>2024-06-29T08:17:45Z</time>
+      </trkpt>
+      <trkpt lat="40.848146" lon="-8.34522">
+        <ele>333.8</ele>
+        <time>2024-06-29T08:17:49Z</time>
+      </trkpt>
+      <trkpt lat="40.848044" lon="-8.345599">
+        <ele>332.8</ele>
+        <time>2024-06-29T08:17:56Z</time>
+      </trkpt>
+      <trkpt lat="40.848176" lon="-8.346247">
+        <ele>331.8</ele>
+        <time>2024-06-29T08:18:03Z</time>
+      </trkpt>
+      <trkpt lat="40.84839" lon="-8.346928">
+        <ele>332.8</ele>
+        <time>2024-06-29T08:18:07Z</time>
+      </trkpt>
+      <trkpt lat="40.848515" lon="-8.347468">
+        <ele>334.1</ele>
+        <time>2024-06-29T08:18:14Z</time>
+      </trkpt>
+      <trkpt lat="40.848549" lon="-8.348123">
+        <ele>333.6</ele>
+        <time>2024-06-29T08:18:20Z</time>
+      </trkpt>
+      <trkpt lat="40.848632" lon="-8.348504">
+        <ele>334.0</ele>
+        <time>2024-06-29T08:18:27Z</time>
+      </trkpt>
+      <trkpt lat="40.848691" lon="-8.349172">
+        <ele>333.1</ele>
+        <time>2024-06-29T08:18:31Z</time>
+      </trkpt>
+      <trkpt lat="40.848718" lon="-8.349697">
+        <ele>332.5</ele>
+        <time>2024-06-29T08:18:37Z</time>
+      </trkpt>
+      <trkpt lat="40.848666" lon="-8.350259">
+        <ele>333.2</ele>
+        <time>2024-06-29T08:18:41Z</time>
+      </trkpt>
+      <trkpt lat="40.848755" lon="-8.351031">
+        <ele>334.5</ele>
+        <time>2024-06-29T08:18:45Z</time>
+      </trkpt>
+      <trkpt lat="40.848695" lon="-8.351686">
+        <ele>335.7</ele>
+        <time>2024-06-29T08:18:50Z</time>
+      </trkpt>
+      <trkpt lat="40.848882" lon="-8.35186">
+        <ele>335.0</ele>
+        <time>2024-06-29T08:18:53Z</time>
+      </trkpt>
+      <trkpt lat="40.848802" lon="-8.351911">
+        <ele>336.1</ele>
+        <time>2024-06-29T08:18:59Z</time>
+      </trkpt>
+      <trkpt lat="40.848769" lon="-8.351953">
+        <ele>336.2</ele>
+        <time>2024-06-29T08:19:02Z</time>
+      </trkpt>
+      <trkpt lat="40.849043" lon="-8.35224">
+        <ele>335.2</ele>
+        <time>2024-06-29T08:19:07Z</time>
+      </trkpt>
+      <trkpt lat="40.848973" lon="-8.352186">
+        <ele>334.1</ele>
+        <time>2024-06-29T08:19:12Z</time>
+      </trkpt>
+      <trkpt lat="40.849017" lon="-8.352261">
+        <ele>335.6</ele>
+        <time>2024-06-29T08:19:19Z</time>
+      </trkpt>
+      <trkpt lat="40.849043" lon="-8.352429">
+        <ele>334.6</ele>
+        <time>2024-06-29T08:19:25Z</time>
+      </trkpt>
+      <trkpt lat="40.849087" lon="-8.352645">
+        <ele>335.2</ele>
+        <time>2024-06-29T08:19:30Z</time>
+      </trkpt>
+      <trkpt lat="40.848916" lon="-8.352677">
+        <ele>334.8</ele>
+        <time>2024-06-29T08:19:36Z</time>
+      </trkpt>
+      <trkpt lat="40.849002" lon="-8.352787">
+        <ele>334.7</ele>
+        <time>2024-06-29T08:19:40Z</time>
+      </trkpt>
+      <trkpt lat="40.848999" lon="-8.352951">
+        <ele>335.4</ele>
+        <time>2024-06-29T08:19:48Z</time>
+      </trkpt>
+      <trkpt lat="40.849099" lon="-8.352904">
+        <ele>336.8</ele>
+        <time>2024-06-29T08:19:53Z</time>
+      </trkpt>
+      <trkpt lat="40.848989" lon="-8.353095">
+        <ele>337.0</ele>
+        <time>2024-06-29T08:19:57Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
