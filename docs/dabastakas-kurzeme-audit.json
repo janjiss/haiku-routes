@@ -1,0 +1,62 @@
+[
+  {
+    "file": "source/kurzeme_established_imulas-dabas-taka.gpx",
+    "name": "Imulas dabas taka",
+    "sources": [
+      "https://dabastakas.lv/marsruti/imulas-dabas-taka/",
+      "https://dabastakas.lv/wp-content/uploads/2026/07/Imulas_dabas_taka.gpx"
+    ],
+    "sourceSha256": "d5e7b56b078a48c8718359ca8ba05ab35a4c0abaf298d16fb72395e434cdc7cd",
+    "sourcePoints": 6469,
+    "maxSegmentMeters": 43.93267740697295,
+    "p90Meters": 2.9011982939103884,
+    "strictOutliers": 0,
+    "notes": "Established marked river trail loop with gravel-road return and a spur to Lanksēdes Velnapēdas stone. Steep slopes and steps; the publisher reports giant hogweed beside the stone spur and dogs near a house.",
+    "overlap": {
+      "file": "source/kurzeme_established_imulas-dabas-taka.gpx",
+      "name": "Imulas dabas taka",
+      "toleranceMeters": 25,
+      "sampleSpacingMeters": 10,
+      "distanceMeters": 4646.0,
+      "overlapWithCatalogMeters": 0,
+      "overlapWithCatalogPercent": 0.0,
+      "matches": []
+    },
+    "generated": {
+      "file": "routes/imulas-dabas-taka_y4uh.geojson",
+      "points": 1618,
+      "maxSegmentMeters": 135.45199767841845,
+      "distanceMeters": 4645.7351764678615
+    }
+  },
+  {
+    "file": "source/kurzeme_established_pirata-tromela-dargumu-taka.gpx",
+    "name": "Pirāta Tromeļa dārgumu taka (turp un atpakaļ)",
+    "sources": [
+      "https://dabastakas.lv/marsruti/pirata-tromela-dargumu-taka/",
+      "https://dabastakas.lv/wp-content/uploads/2026/07/Pirata_Tromela_dargumu_taka.gpx"
+    ],
+    "sourceSha256": "2b05ebc39c903c12ff600f684895ebd0eb9c9d42be22e21c760389a44c195f56",
+    "sourcePoints": 1788,
+    "maxSegmentMeters": 17.129082813198725,
+    "p90Meters": 11.785466405566943,
+    "strictOutliers": 0,
+    "notes": "Published Melnsils–Ēvaži coastal walk. The original GPX includes both outward and return legs, with some different paths. Beaches, forest paths and stream crossings; winter ice may make the route difficult.",
+    "overlap": {
+      "file": "source/kurzeme_established_pirata-tromela-dargumu-taka.gpx",
+      "name": "Pirāta Tromeļa dārgumu taka (turp un atpakaļ)",
+      "toleranceMeters": 25,
+      "sampleSpacingMeters": 10,
+      "distanceMeters": 8667.3,
+      "overlapWithCatalogMeters": 0,
+      "overlapWithCatalogPercent": 0.0,
+      "matches": []
+    },
+    "generated": {
+      "file": "routes/pir-ta-trome-a-d-rgumu-taka-turp-un-atpaka_yed5.geojson",
+      "points": 1788,
+      "maxSegmentMeters": 17.129082813198725,
+      "distanceMeters": 8666.764297261547
+    }
+  }
+]

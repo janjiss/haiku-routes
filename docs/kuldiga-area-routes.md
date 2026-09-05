@@ -124,7 +124,7 @@ GitHub Pages currently deploys the generated gh-pages branch. Build into a
 fresh output directory so removed variants cannot survive as stale files.
 Publish generated indexes and routes, remove the rejected Snēpele and two redundant variant files
 from gh-pages, and retain unrelated legacy aliases used by older clients.
-The catalog has 420 routes. Seven qualifying established additions are now included;
+The catalog has 422 routes. Nine qualifying established additions are now included;
 the request for ten remains incomplete. Snēpele remains removed.
 
 ## Wider Kurzeme additions
@@ -192,5 +192,45 @@ Additional rejected/held leads from the wider search:
   This material shared section is intentional and must not be described
   as zero overlap. Neither track is wholly contained in the other.
 
-Seven of the ten requested additions have verified source geometry. Further
-leads have not met the full source, distance and overlap requirements.
+Nine of the ten requested additions now have verified source geometry. The
+Dabastakas.lv follow-up below provides two additional routes.
+
+## Dabastakas.lv follow-up
+
+The user supplied https://dabastakas.lv/kurzeme/. Its current paginated
+directory exposes direct GPX downloads that were absent from the older
+search-engine page snapshot. All eligible downloads were checked geometrically
+against the catalog, rather than identified only by name.
+
+| Added complete published track | Distance | Source points | Maximum segment | Catalog overlap |
+| --- | ---: | ---: | ---: | ---: |
+| Imulas dabas taka | 4.646 km | 6,469 | 43.93 m | 0% |
+| Pirāta Tromeļa dārgumu taka (turp un atpakaļ) | 8.667 km | 1,788 | 17.13 m | 0% |
+
+Exact source URLs, source download hashes, and the comparison against all 421
+other routes (including each other) are in
+[dabastakas-kurzeme-audit.json](dabastakas-kurzeme-audit.json). Both source
+tracks have one continuous segment, no strict outliers, and retain all
+original coordinates and recorded elevations. No extensions or returns were
+invented. Sensor readings and activity timestamps are omitted from the imported
+GPX; attribution and route-specific cautions are retained.
+
+Imula is a complete river/road loop with a spur to the stone; its publisher
+reports giant hogweed beside that spur and dogs near a house. The Tromeļa
+GPX already returns to Melnsils, despite the article describing a one-way
+itinerary. Its two recorded coastal legs are preserved and the title identifies
+the return walk. Stream crossings and winter ice affect this route. Both
+track shapes were visually inspected.
+
+The existing builder samples Imula down to at most 2,000 points for the live
+API; the full source remains in main. Generated geometry is checked against
+the builder’s expected sampling, including endpoints and maximum segments.
+
+Rejected downloads: Čužu 75.45% overlap; Ķemeri 100%; Pēterezers 100%;
+Šlītere 48.93%; Viesata 91.34%; short Vilkaču 100%. Long Vilkaču measures
+10.982 km and overlaps 52.93%. Other routes exceed 10 km or fall below 3 km.
+Viskūžu island supplies no track and explicitly describes sections without
+paths; the island shoreline is not substituted for a hiking track.
+
+The target remains one route short. Do not count overlapping variants or
+unverified leads merely to reach ten.
