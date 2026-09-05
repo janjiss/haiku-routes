@@ -1,74 +1,105 @@
-# Walks outside Kuldīga
+# Walks outside Kuldīga — geometry and overlap audit
 
-Added 2026-09-05. These are short walking **variants** of existing published
-tracks/paths, not newly surveyed trails or claims of official named routes.
-Distances from Kuldīga below are straight-line distances; driving is longer.
-The existing Venta route in Kuldīga is unchanged.
+Updated 2026-09-05. Prioritize less obvious countryside walks near 5 km that
+add ground absent from the catalog. Do not treat renamed, shortened, or reversed
+versions of existing tracks as new routes.
 
-## Kazdangas parka mazais loks — 5.299 km
+## Corrected earlier additions
 
-- Location: Kazdanga, 30.6 km south of Kuldīga.
-- Start/end: 56.72485, 21.73560 (original source trailhead).
-- Format: southern park loop with a shared access path.
-- Source publisher: Kurzeme Planning Region.
-- [Trail description](https://www.kurzemesregions.lv/projekti/turisms/unigreen/dabas-takas/kazdangas-parka-dabas-taka/)
-- [Original GPX](https://kurzemesregions.lv/wp-content/uploads/2019/04/Kazdanga_Park_Nature_Trail.gpx)
-- Derivation from the 1,446-point original: zero-based points 1445 down to
-  1387, followed by points 658 through 1445. This follows the original
-  approach in reverse, then the southern loop and recorded return to the
-  trailhead. Points 1387 and 658 are two recordings of the same junction,
-  1.3 m apart. No smoothing or interpolated geometry was added.
-- Preserves source elevations where supplied.
+The first addition used a name/ID check, which was insufficient. A full geometry
+comparison found these redundant variants and they have been removed:
 
-## Spāres meža pastaiga (turp un atpakaļ) — 5.380 km
+| Removed variant | Existing source route | Candidate path shared |
+| --- | --- | ---: |
+| Kazdangas parka mazais loks | latvia_kurzeme_109_kazdangas-parka-dabas-taka.gpx | 99.62% (5,278.8 m) |
+| Spāres meža pastaiga | latvia_kurzeme_108_olimpiskais-pargajiens-spare.gpx | 100% (5,379.7 m) |
 
-- Location: forest near Spāre/Gulbju lake, 31.3 km northeast of Kuldīga.
-- Start/end: 57.2143385, 22.2190232.
-- Format: out-and-back; turn around at 57.2183725, 22.2476380.
-- Source: [OpenStreetMap relation 15609772](https://www.openstreetmap.org/relation/15609772),
-  “Olimpiskais pārgājiens Spārē”, attributed there to Latvijas valsts meži.
-- Derived variant follows the relation's southern forest paths and northeast
-  access spur, then retraces those same paths. It does not claim to be the
-  complete Olympic loop or a route to the viewing tower.
-- Connected OSM ways in outbound order: 1154796063, 1154796049,
-  1154796051 (reversed), 1154796061, 800135175 (reversed),
-  1154796054 (reversed), 148883394, 1154796057, 1154796073.
-  Every join uses an identical OSM node. Return uses the exact reverse path.
-- Excludes the original loop's sparsely mapped 488 m straight shortcut;
-  no invented intermediate points or cross-country joins.
-- Map data © OpenStreetMap contributors, [ODbL 1.0](https://www.openstreetmap.org/copyright).
-  Elevation is unknown, not zero.
+The original Kazdanga and Spāre routes remain. Žibgrava and the Kuldīga Venta
+walk were excluded from this discovery pass as obvious/existing choices.
 
-## Verification
+## Accepted countryside itineraries
 
-Both source files contain one track and one segment, with identical start/end
-coordinates, valid finite coordinates, unique catalog IDs, and no duplicates
-in the existing catalog. Build preserves every new source coordinate (both
-are below the decimation limit). Both appear in all four index zoom levels.
+These are short **out-and-back itineraries along official Mežtaka tracks**,
+not separately named official trails. Each covers approximately 2.5 km of
+unique path and returns over exactly the same path (50% retracing by distance).
+The turnaround is selected for a roughly 5 km walk, not a claimed landmark.
+No added coordinates, interpolated geometry, guessed connectors, or elevation
+estimates are used. Starts are trail coordinates; parking is not verified.
+Distances from Kuldīga are straight-line distances, not driving distances.
 
-| Variant | Points | Maximum segment | 90th percentile segment |
-| --- | ---: | ---: | ---: |
-| Kazdanga | 847 | 9.19 m | 7.92 m |
-| Spāre | 119 | 130.53 m | 82.64 m |
+### Snēpeles mežu pastaiga (turp un atpakaļ)
 
-Neither meets the Kurzeme outlier condition (>300 m and >3× p90), and
-neither has a segment above the stricter 150 m review threshold.
-This verifies geometry, not current on-ground trail conditions.
+- Total: 5.001 km; start 14.3 km from Kuldīga.
+- Start/end: 56.840325, 21.944804.
+- Turnaround: 56.856062, 21.963688.
+- 145 points; maximum segment 98.34 m; p90 58.61 m.
+- Overlap with every other current source GPX, including the other candidate: **0 m / 0%** within 25 m.
 
-## Candidates not imported
+### Riežupes meža pastaiga (turp un atpakaļ)
 
-The municipality lists Suitu tracks around Alsunga at approximately 5–6 km,
-but its QR-linked GPX files return HTTP 403. Wikiloc mirrors require login
-for file downloads. These were not imported or reconstructed from previews.
+- Total: 4.969 km; start 4.6 km from Kuldīga.
+- Start/end: 57.008984, 21.980134.
+- Turnaround: 57.021881, 22.007186.
+- 151 points; maximum segment 124.86 m; p90 44.36 m.
+- Overlap with every other current source GPX, including the other candidate: **0 m / 0%** within 25 m.
+
+## Sources and exact derivation
+
+Official publisher: Baltic Trails / Lauku ceļotājs. Downloaded using each page's
+public GPX export form, without waypoints, on 2026-09-05.
+
+- [Mežtaka section 92: Snēpele–Kuldīga](https://baltictrails.eu/en/forest/day/119).
+  Original has 601 points. Use zero-based points 0–72 inclusive, then points
+  71–0 to return. Original download SHA-256:
+  `7bd381bea2b35cb2ec700b4379f28e743ccae6463a610f933624e1d6993f3ca0`.
+- [Mežtaka section 93: Kuldīga–Renda](https://baltictrails.eu/en/forest/day/120).
+  Use zero-based points 118–193 inclusive, then points 192–118 to return.
+  Start is near the Riežupe/Venta picnic area, already outside Kuldīga.
+  Original download SHA-256:
+  `729de2af85c7c81e64d78956a7aec400e937ed8e0e59000cbca6552dc30b320e`.
+
+## Overlap method and validation
+
+`python3 scripts/check-route-overlap.py source/kuldiga_area_*.gpx`
+
+Compares against every GPX in source/ except the candidate itself. Uses a local
+metric projection, length-weighted midpoint samples no more than 10 m apart,
+and distance to existing line segments within 25 m. Reports both directional
+percentages and total overlap with the union of the catalog. This tolerates
+GPS noise, reversed traversal and different sampling densities. GPX segment
+boundaries are respected. A 25 m corridor can include nearby parallel paths;
+material matches require inspection, not automatic deletion.
+
+`python3 scripts/test-route-overlap.py` checks reversed/subset routes, GPS
+offsets, disjoint paths, crossings, GPX segment gaps, sampling density, and
+out-and-back containment (six tests).
+
+Both new source tracks pass the stricter 150 m segment review threshold and
+the Kurzeme >300 m / >3×p90 outlier test. Each has one track and one segment;
+start and end match exactly. The build preserves every coordinate. Riežupe is
+under 5,000 m, so it intentionally appears at z8/z10/z12, not z6. Snēpele appears
+at all four zooms. Geometry verification does not certify current trail access
+or on-ground conditions.
+
+## Promising candidates not published
+
+- [Dzilonis and Mežmuižas lakes near Renda](https://visitkuldiga.com/en/activity-objects/pastaigu-takas-un-pargajienu-marsruti/apkart-dzilonezeram/):
+  official listing describes 2.5 km plus a 3.7 km extension, about 6.2 km total.
+  The migrated route offers a coarse public map, but the full GPX download
+  requires login. Available OSM paths could not reproduce the second lake
+  loop reliably, so no guessed connecting geometry was imported.
+- [Padure forest / Dzelzavots](https://visitkuldiga.com/en/activity-objects/pastaigu-takas-un-pargajienu-marsruti/padures-mezu-mazais-loks/):
+  official route is 11 km. Could not verify a complete shorter countryside
+  circuit from accessible source data; held back rather than guessing joins.
+- Suitu/Alsunga tracks: municipality QR-linked files return HTTP 403;
+  Žibgrava already exists and is not a discovery priority.
 
 ## Publishing
 
-At the time of this addition, main has no publish-routes.yml workflow;
-the existing site deploys from gh-pages. Build with npm ci and npm run build,
-commit source GPX and these notes to main, then publish the generated output
-to gh-pages. Preserve the existing legacy route aliases during this additive
-publish; they are still used by older app versions.
-
-Original download SHA-256 (kazdanga.gpx): `4660a3aecacad97ab3cce2e696ab720caef56b1bcf1d91b04914836f7170e6ac`.
-
-Original download SHA-256 (spare.osm): `723689aacd22feaf5ba457862cd94340c6247a131a12c1ee947e71baf3fc3977`.
+main is the durable source. No publish-routes.yml exists in this checkout;
+GitHub Pages currently deploys the generated gh-pages branch. Build into a
+fresh output directory so removed variants cannot survive as stale files.
+Publish generated indexes and routes, remove the two redundant variant files
+from gh-pages, and retain unrelated legacy aliases used by older clients.
+The final catalog has 414 routes (two redundant variants replaced by two
+non-overlapping countryside itineraries).

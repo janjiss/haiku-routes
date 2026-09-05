@@ -23,6 +23,20 @@
   - and more than `3x` the route's 90th percentile segment length.
 - If a jump is not safely repairable from source data, remove the source GPX rather than publishing misleading geometry.
 
+## Overlap Checks Before Adding Routes
+
+- Compare full geometry against every source GPX, not just route names or IDs.
+- Run `python3 scripts/check-route-overlap.py candidate.gpx` before importing.
+- The check samples by distance (at most 10 m apart) and measures proximity to
+  existing path segments within 25 m. It detects reversed and contained routes.
+- Review material overlap (20% or more) before considering a route new. A shorter
+  variant of an existing track does not add new ground and should not be imported
+  merely to achieve a target distance.
+- Report shared distance and percentage; proximity alone can include parallel
+  paths, so inspect borderline cases. Compare candidates against each other too.
+- Label out-and-back itineraries explicitly: they retrace their own path even
+  when their overlap with the existing catalog is zero.
+
 ## Kurzeme Cleanup
 
 - The jagged Kurzeme routes were generated GPX tracks with extreme intra-route segment outliers.
