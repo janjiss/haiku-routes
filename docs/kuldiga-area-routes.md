@@ -40,7 +40,7 @@ published route `sn-peles-me-u-pastaiga-turp-un-atpaka_xs34` must be absent.
   GPX SHA-256: `ecd39aa0c68714ec4115eefeaaa85e2c6cf90b27898ecd80261918954b1eb724`.
 - Full geometry comparison with all 413 other source GPXs: **0 m / 0%**
   overlap within 25 m. Audit includes Riežupe and every regional filename prefix.
-- This was the first qualifying addition toward the requested ten. Four further
+- This was the first qualifying addition toward the requested ten. Six further
   additions are documented below.
 
 ### Riežupes meža pastaiga (turp un atpakaļ) — retained earlier itinerary
@@ -124,15 +124,17 @@ GitHub Pages currently deploys the generated gh-pages branch. Build into a
 fresh output directory so removed variants cannot survive as stale files.
 Publish generated indexes and routes, remove the rejected Snēpele and two redundant variant files
 from gh-pages, and retain unrelated legacy aliases used by older clients.
-The catalog has 418 routes. Five qualifying established additions are now included;
+The catalog has 420 routes. Seven qualifying established additions are now included;
 the request for ten remains incomplete. Snēpele remains removed.
 
 ## Wider Kurzeme additions
 
 Full provenance, source URLs, coordinate derivations, hashes and geometry overlap
 results are in [kurzeme-established-audit.json](kurzeme-established-audit.json).
-All four were compared against all 417 other source GPXs, including one another:
-**0 m / 0% catalog overlap within 25 m**.
+The first four were initially compared against all 417 other source GPXs, including
+one another, with 0% overlap. The final audit compares all six against all 419
+other routes. Adding the separate Saldus circuit creates the shared section
+documented below; the other four routes retain 0% overlap.
 
 | Route | Measured distance | Type | Points | Maximum segment |
 | --- | ---: | --- | ---: | ---: |
@@ -174,3 +176,21 @@ Additional rejected/held leads from the wider search:
 - Melnezers–Sveikuļi and several other official Tukums circuits exceed 10 km.
 - Misiņkalns has a published 3.2 km marked loop, but its complete track is
   not yet verified. Do not infer a track from the park’s general paths.
+
+### Further complete published tracks
+
+- **Priekules Priediens:** 4.309 km; all 246 public track coordinates by
+  Roberts Greitāns. Maximum segment 110.19 m, p90 35.89 m, no strict
+  outliers; 0% overlap with all 419 other routes. Park existence is also
+  confirmed by the Dienvidkurzeme tourism authority.
+- **Saldus: Kalnsētas parks un Cieceres taka:** 9.860 km; all 391 public
+  track coordinates by Roberts Greitāns. Maximum segment 120 m, p90
+  50.51 m, no strict outliers. This is a separate complete town/park
+  circuit, not a renamed Ciecere return walk: 1,827.2 m / 18.53% overlaps
+  Ciecere, while approximately 8,032.9 m adds new ground. In the other
+  direction, 67.4% of the Ciecere return itinerary lies within its corridor.
+  This material shared section is intentional and must not be described
+  as zero overlap. Neither track is wholly contained in the other.
+
+Seven of the ten requested additions have verified source geometry. Further
+leads have not met the full source, distance and overlap requirements.

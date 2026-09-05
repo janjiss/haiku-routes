@@ -44,9 +44,17 @@
       "toleranceMeters": 25,
       "sampleSpacingMeters": 10,
       "distanceMeters": 5093.7,
-      "overlapWithCatalogMeters": 0,
-      "overlapWithCatalogPercent": 0.0,
-      "matches": []
+      "overlapWithCatalogMeters": 3432.9,
+      "overlapWithCatalogPercent": 67.4,
+      "matches": [
+        {
+          "file": "source/kurzeme_established_saldus-kalnsetas-aplis.gpx",
+          "name": "Saldus: Kalnsētas parks un Cieceres taka",
+          "sharedMeters": 3432.9,
+          "candidateOverlapPercent": 67.4,
+          "existingOverlapPercent": 18.53
+        }
+      ]
     }
   },
   {
@@ -97,6 +105,62 @@
       "overlapWithCatalogMeters": 0,
       "overlapWithCatalogPercent": 0.0,
       "matches": []
+    }
+  },
+  {
+    "file": "source/kurzeme_established_priekules-priediens.gpx",
+    "name": "Priekules Priediens",
+    "points": 246,
+    "distanceMeters": 4309.045524220037,
+    "maxSegmentMeters": 110.18856372808877,
+    "p90Meters": 35.88674123026884,
+    "strictOutliers": 0,
+    "derivation": "All original public GeoShape line coordinates, without interpolation or edits.",
+    "sha256": "f4d291bcb3e27c410be7cc4285abc05f706211631ed735f28ad2ca5cf32bb0ab",
+    "sources": [
+      "https://www.outdooractive.com/en/route/nature-trail/dienvidkurzemes-novads/priekules-priediens/332613460/"
+    ],
+    "overlap": {
+      "file": "source/kurzeme_established_priekules-priediens.gpx",
+      "name": "Priekules Priediens",
+      "toleranceMeters": 25,
+      "sampleSpacingMeters": 10,
+      "distanceMeters": 4309.0,
+      "overlapWithCatalogMeters": 0,
+      "overlapWithCatalogPercent": 0.0,
+      "matches": []
+    }
+  },
+  {
+    "file": "source/kurzeme_established_saldus-kalnsetas-aplis.gpx",
+    "name": "Saldus: Kalnsētas parks un Cieceres taka",
+    "points": 391,
+    "distanceMeters": 9860.0510942056,
+    "maxSegmentMeters": 119.73840601076586,
+    "p90Meters": 50.510333413855314,
+    "strictOutliers": 0,
+    "derivation": "All original public GeoShape line coordinates, without interpolation or edits.",
+    "sha256": "e822d6e7a24814aac9d8dc7f7e24da7c1fdd96112de2b5e47c145e3a7c51f4af",
+    "sources": [
+      "https://www.outdooractive.com/en/route/city-walk/saldus-novads/saldus-kalnsetas-parks-un-cieceres-taka/332630255/"
+    ],
+    "overlap": {
+      "file": "source/kurzeme_established_saldus-kalnsetas-aplis.gpx",
+      "name": "Saldus: Kalnsētas parks un Cieceres taka",
+      "toleranceMeters": 25,
+      "sampleSpacingMeters": 10,
+      "distanceMeters": 9860.1,
+      "overlapWithCatalogMeters": 1827.2,
+      "overlapWithCatalogPercent": 18.53,
+      "matches": [
+        {
+          "file": "source/kurzeme_established_cieceres-dabas-taka.gpx",
+          "name": "Cieceres dabas taka Saldū (turp un atpakaļ)",
+          "sharedMeters": 1827.2,
+          "candidateOverlapPercent": 18.53,
+          "existingOverlapPercent": 67.4
+        }
+      ]
     }
   }
 ]
