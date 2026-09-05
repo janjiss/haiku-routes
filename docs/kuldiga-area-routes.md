@@ -1,6 +1,6 @@
-# Walks outside Kuldīga — geometry and overlap audit
+# Established walks in Kurzeme — geometry and overlap audit
 
-Updated 2026-09-05. New additions must be established published routes, 3–10 km long, that
+Updated 2026-09-05. Search expanded to all of Kurzeme at the user’s request. New additions must be established published routes, 3–10 km long, that
 add ground absent from the catalog. Do not treat renamed, shortened, or reversed
 versions of existing tracks as new routes.
 
@@ -40,8 +40,8 @@ published route `sn-peles-me-u-pastaiga-turp-un-atpaka_xs34` must be absent.
   GPX SHA-256: `ecd39aa0c68714ec4115eefeaaa85e2c6cf90b27898ecd80261918954b1eb724`.
 - Full geometry comparison with all 413 other source GPXs: **0 m / 0%**
   overlap within 25 m. Audit includes Riežupe and every regional filename prefix.
-- This is **one qualifying addition toward the requested ten**. The remaining
-  nine have not been verified; do not count rejected/blocked leads as additions.
+- This was the first qualifying addition toward the requested ten. Four further
+  additions are documented below.
 
 ### Riežupes meža pastaiga (turp un atpakaļ) — retained earlier itinerary
 
@@ -124,5 +124,53 @@ GitHub Pages currently deploys the generated gh-pages branch. Build into a
 fresh output directory so removed variants cannot survive as stale files.
 Publish generated indexes and routes, remove the rejected Snēpele and two redundant variant files
 from gh-pages, and retain unrelated legacy aliases used by older clients.
-The catalog has 414 routes: Snēpele removed and Ugāles gravas added. The
-request for ten qualifying new established routes remains incomplete.
+The catalog has 418 routes. Five qualifying established additions are now included;
+the request for ten remains incomplete. Snēpele remains removed.
+
+## Wider Kurzeme additions
+
+Full provenance, source URLs, coordinate derivations, hashes and geometry overlap
+results are in [kurzeme-established-audit.json](kurzeme-established-audit.json).
+All four were compared against all 417 other source GPXs, including one another:
+**0 m / 0% catalog overlap within 25 m**.
+
+| Route | Measured distance | Type | Points | Maximum segment |
+| --- | ---: | --- | ---: | ---: |
+| Sātiņu dīķi | 3.675 km | Out and back, as published in the original GPX | 639 | 9.05 m |
+| Cieceres dabas taka Saldū | 5.094 km | Full established trail, out and back | 701 | 111.97 m |
+| Baltā vilka ceļš mājup | 4.669 km | One way, mainly roads and village lanes | 32 | 453.19 m |
+| Mazbānīša taka: Mazirbe–Sīkrags | 6.378 km | One way, old railway trail | 912 | 12.92 m |
+
+The Ciecere original contains two tracks that begin 1.65 m apart. Reversing the
+first joins them in trail order; blindly concatenating them would create a
+593 m false jump. The resulting complete 2.547 km river trail is retraced for
+the return walk. This is a full established trail, not an arbitrary extension.
+
+The Mazbānīša source contains the longer loop with a western extension and
+coastal return. The imported named Mazirbe–Sīkrags outward section runs from
+the official trailhead to the village road junction; its measured length is
+6.378 km versus the approximately 7 km tourism description. The western
+extension contains coarse geometry and is not included.
+
+Baltā vilka ceļš mājup uses all official map coordinates. Its longer segments
+are straight road stretches, not coordinate jumps: all length-weighted 10 m
+samples lie within 25 m of OpenStreetMap roads, also visually inspected.
+Its p90 is 381.31 m and it has no strict outliers. No artificial densification
+or invented coordinates were used. The other three also have no strict
+outliers. Every addition has one track and one segment.
+
+Sātiņi: the publisher recommends coordinating access with the landowner using
+the notice at the trail entrance. Zīlītes: do not enter the buildings. Both
+one-way routes require onward transport or additional return walking. These
+limitations are included in GPX metadata and track descriptions.
+
+Additional rejected/held leads from the wider search:
+
+- Official Orhideju GPX: 99.39% overlap with the existing Orhideju route.
+- Remtes muižas parks: original complete loop is 2.325 km.
+- Virsaišu waterfall: original complete return track is 2.806 km.
+- Baltā vilka zaļais ceļš: 7.802 km; 14.22% overlaps Mežtaka, and about
+  1.09 km of coarse map geometry could not be corroborated with mapped paths.
+- Melnezers–Sveikuļi and several other official Tukums circuits exceed 10 km.
+- Misiņkalns has a published 3.2 km marked loop, but its complete track is
+  not yet verified. Do not infer a track from the park’s general paths.

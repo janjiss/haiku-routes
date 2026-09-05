@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="haiku-routes" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Baltā vilka ceļš mājup</name>
+    <desc>Established literary walking route from Smārde railway station to Jānis Baltvilks’s birthplace Zīlītes. Official Tukums tourism map coordinates, retrieved 2026-09-05, preserved without interpolation. Mainly roads and village lanes; one way. Do not enter the buildings at Zīlītes. Route authors: Baltā vilka takas and Tukuma Literātu apvienība.</desc>
+    <link href="https://www.visittukums.lv/lv/Marsruti/Pargajienu-marsruti/Balta-Vilka-cels-majup" />
+  </metadata>
+  <trk>
+    <name>Baltā vilka ceļš mājup</name>
+    <desc>Established literary walking route from Smārde railway station to Jānis Baltvilks’s birthplace Zīlītes. Official Tukums tourism map coordinates, retrieved 2026-09-05, preserved without interpolation. Mainly roads and village lanes; one way. Do not enter the buildings at Zīlītes. Route authors: Baltā vilka takas and Tukuma Literātu apvienība.</desc>
+    <trkseg>
+      <trkpt lat="56.954948" lon="23.337315" />
+      <trkpt lat="56.954758" lon="23.33791" />
+      <trkpt lat="56.954609" lon="23.337792" />
+      <trkpt lat="56.953611" lon="23.336693" />
+      <trkpt lat="56.95154" lon="23.334315" />
+      <trkpt lat="56.951121" lon="23.333549" />
+      <trkpt lat="56.950955" lon="23.333029" />
+      <trkpt lat="56.950852" lon="23.332396" />
+      <trkpt lat="56.950739" lon="23.329069" />
+      <trkpt lat="56.950399" lon="23.322342" />
+      <trkpt lat="56.950074" lon="23.315305" />
+      <trkpt lat="56.949668" lon="23.307868" />
+      <trkpt lat="56.949451" lon="23.301592" />
+      <trkpt lat="56.949433" lon="23.300209" />
+      <trkpt lat="56.949938" lon="23.296955" />
+      <trkpt lat="56.950917" lon="23.291535" />
+      <trkpt lat="56.948878" lon="23.288542" />
+      <trkpt lat="56.949287" lon="23.286187" />
+      <trkpt lat="56.949477" lon="23.28557" />
+      <trkpt lat="56.949691" lon="23.285263" />
+      <trkpt lat="56.95027" lon="23.284866" />
+      <trkpt lat="56.950662" lon="23.284395" />
+      <trkpt lat="56.951002" lon="23.282823" />
+      <trkpt lat="56.949363" lon="23.278719" />
+      <trkpt lat="56.949334" lon="23.278182" />
+      <trkpt lat="56.949354" lon="23.277732" />
+      <trkpt lat="56.949746" lon="23.275147" />
+      <trkpt lat="56.949726" lon="23.274813" />
+      <trkpt lat="56.949673" lon="23.274567" />
+      <trkpt lat="56.949027" lon="23.273462" />
+      <trkpt lat="56.948176" lon="23.272249" />
+      <trkpt lat="56.947988" lon="23.27183" />
+    </trkseg>
+  </trk>
+</gpx>
